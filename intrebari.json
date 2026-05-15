@@ -11,7 +11,8 @@
             "b": "economia de schimb este singura existentă doar în țările mai puțin dezvoltate;",
             "c": "economia de schimb produce preponderent pentru piață, iar cea naturală pentru autoconsum;",
             "d": "nu există nici o legătură între aceste două noțiuni."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 2,
@@ -21,7 +22,8 @@
             "b": "diversitatea economiei și specializarea factorilor de producție;",
             "c": "existența economiei naturale;",
             "d": "doar specializarea muncii."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 3,
@@ -31,7 +33,8 @@
             "b": "creșterea lor mai rapidă în raport cu nevoile;",
             "c": "limitarea lor;",
             "d": "creșterea lor în aceeași proporție cu creșterea cu nevoile."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 4,
@@ -41,7 +44,8 @@
             "b": "sunt resurse derivate;",
             "c": "nu sporesc simultan cu creșterea nevoilor;",
             "d": "sporesc simultan cu creșterea nevoilor."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 5,
@@ -51,7 +55,8 @@
             "b": "libere și economice;",
             "c": "doar servicii;",
             "d": "numai bunuri libere."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 6,
@@ -61,7 +66,8 @@
             "b": "regenerabile și neregenerabile;",
             "c": "limitate;",
             "d": "nelimitate."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 7,
@@ -71,7 +77,8 @@
             "b": "utilitatea;",
             "c": "raritatea;",
             "d": "calitatea."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 8,
@@ -81,7 +88,8 @@
             "b": "bunuri economice;",
             "c": "nevoi;",
             "d": "niciun răspuns nu este corect."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 9,
@@ -91,7 +99,8 @@
             "b": "este considerat ca fiind temporar;",
             "c": "determină principiul raționalității în activitatea economică;",
             "d": "nu se interpretează în raport cu nevoile."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 10,
@@ -101,7 +110,8 @@
             "b": "de lux;",
             "c": "elevată;",
             "d": "complexă."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 11,
@@ -111,7 +121,8 @@
             "b": "economiei la nivelul unei firme;",
             "c": "economiei la nivelul unui stat;",
             "d": "economiei la nivel global."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 12,
@@ -121,7 +132,8 @@
             "b": "pot fi regenerabile și neregenerabile;",
             "c": "sunt limitate;",
             "d": "niciun răspuns nu este corect."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 13,
@@ -131,7 +143,8 @@
             "b": "sunt nelimitate;",
             "c": "se recuperează;",
             "d": "nici o variantă nu este corectă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 14,
@@ -141,7 +154,8 @@
             "b": "cost de oportunitate;",
             "c": "cost total mediu;",
             "d": "cost implicit."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 15,
@@ -151,7 +165,8 @@
             "b": "un bun liber;",
             "c": "bun economic sau liber în funcție dacă este util sau nu;",
             "d": "niciun răspuns nu este corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 16,
@@ -161,7 +176,8 @@
             "b": "o componentă a activității umane;",
             "c": "într-o relație de la întreg la parte cu activitatea umană;",
             "d": "mai cuprinzătoare decât activitatea umană."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 17,
@@ -171,7 +187,8 @@
             "b": "întreprinderile publice;",
             "c": "băncile;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 18,
@@ -181,7 +198,8 @@
             "b": "factorii de producție;",
             "c": "bunurile libere;",
             "d": "nevoile complexe."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 19,
@@ -191,7 +209,8 @@
             "b": "producerea de bunuri și servicii;",
             "c": "redistribuirea veniturilor statului;",
             "d": "realizarea de servicii pentru colectivitate."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 20,
@@ -201,7 +220,8 @@
             "b": "schimbul de bunuri propriu-zise;",
             "c": "deplasarea banilor de la vânzător către cumpărător;",
             "d": "intrarea în posesie a bunului de către cumpărător."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 21,
@@ -211,7 +231,8 @@
             "b": "după forma de proprietate;",
             "c": "exclusiv după natura activității;",
             "d": "exclusiv după mărime."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 22,
@@ -221,7 +242,8 @@
             "b": "administrația publică;",
             "c": "administrațiile private;",
             "d": "întreprinderi."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 23,
@@ -231,7 +253,8 @@
             "b": "sunt fabricate de agenții economici producători;",
             "c": "sunt fabricate de agenții economici consumatori;",
             "d": "sunt cumpărare pe piața resurselor și vândute pe piața externă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 24,
@@ -241,7 +264,8 @@
             "b": "colectarea impozitelor și taxelor;",
             "c": "producerea de bunuri nemarfare;",
             "d": "niciun răspuns nu este corect."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 25,
@@ -251,7 +275,8 @@
             "b": "fluxuri reale și monetare;",
             "c": "fluxuri intrauterine și colective;",
             "d": "niciun răspuns nu este corect."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 26,
@@ -261,7 +286,8 @@
             "b": "întreprinderile;",
             "c": "băncile;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 27,
@@ -271,7 +297,8 @@
             "b": "proprietatea mixtă presupune existența proprietății publice și private;",
             "c": "proprietatea mixtă presupune existența a doi proprietari;",
             "d": "piața reprezintă locul de întâlnire al agenților economici în economia de piață."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 28,
@@ -281,7 +308,8 @@
             "b": "monotonia;",
             "c": "diminuarea confortului;",
             "d": "nu există nici o consecință negativă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 29,
@@ -291,7 +319,8 @@
             "b": "schimbul de bunuri propriu-zise;",
             "c": "plătirea prețului de către cumpărător;",
             "d": "deplasarea banilor de la vânzător către cumpărător."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 30,
@@ -301,7 +330,8 @@
             "b": "Paul Samuelson;",
             "c": "Hermann Heinrich Gossen;",
             "d": "Irving Fisher."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 31,
@@ -311,7 +341,8 @@
             "b": "cantitatea de resurse naturale;",
             "c": "formele efective de organizare a economiei;",
             "d": "factorul de producție capital."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 32,
@@ -321,7 +352,8 @@
             "b": "sunt întotdeauna egale;",
             "c": "variază proporțional;",
             "d": "variază invers proporțional."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 33,
@@ -331,7 +363,8 @@
             "b": "prestarea unor servicii de coafură în decursul anului respectiv;",
             "c": "producerea și consumarea unor legume de către o familie din mediul rural;",
             "d": "cumpărarea unei materii prime utilizate pentru obținerea unui bun final ce urmează a fi vândut în decursul anului respectiv."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 34,
@@ -341,7 +374,8 @@
             "b": "PNB al României și PIB al Israelului;",
             "c": "PIN al României și PNN al Israelului;",
             "d": "numai în PIB al României."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 35,
@@ -351,7 +385,8 @@
             "b": "modificarea efectivă a prețurilor cu modificarea lor anticipată;",
             "c": "rata șomajului cu producția;",
             "d": "rata șomajului cu iluzia monetară;"
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 36,
@@ -361,7 +396,8 @@
             "b": "este venitul de care dispune populația după plata impozitelor pe venit și care poate fi utilizat pentru consum și economii;",
             "c": "este valoarea bunurilor și serviciilor cumpărate de administrațiile publice centrale și locale într-un an;",
             "d": "este valoarea de piață a tuturor bunurilor finale și a serviciilor produse în interiorul unei țări într-o anumită perioadă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 37,
@@ -371,7 +407,8 @@
             "b": "țările în tranziție la economia de piață;",
             "c": "toate țările, indiferent de modul de dezvoltare;",
             "d": "economiile centralizate;"
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 38,
@@ -381,7 +418,8 @@
             "b": "creșterea cheltuielilor bugetare;",
             "c": "mărirea deficitului bugetar;",
             "d": "emisiune monetară suplimentară."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 39,
@@ -391,7 +429,8 @@
             "b": "măsurarea rezultatelor economice la nivelul agenților economici;",
             "c": "interdependența dintre cererea globală și oferta globală simultan pe toate piețele;",
             "d": "relațiile economice dintre două țări."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 40,
@@ -401,7 +440,8 @@
             "b": "politica economică a guvernului;",
             "c": "conjunctura economiei mondiale;",
             "d": "productivitatea factorilor de producție."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 41,
@@ -411,7 +451,8 @@
             "b": "produsul național brut al României;",
             "c": "nivelul ocupării în cadrul agriculturii;",
             "d": "șomajul la nivelul unei localități."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 42,
@@ -421,7 +462,8 @@
             "b": "jocurile ilegale de noroc;",
             "c": "primirea de bacșișuri nedeclarate integral;",
             "d": "toate cele de mai sus."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 43,
@@ -431,7 +473,8 @@
             "b": "cheltuieli agregate suficiente pentru a cumpăra producția;",
             "c": "excedent al balanței comerciale și de plăți;",
             "d": "deficit al balanței comerciale și de plăți."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 44,
@@ -441,7 +484,8 @@
             "b": "economia este în recesiune;",
             "c": "exportul crește;",
             "d": "statul acorda facilități pentru crearea de noi întreprinderi."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 45,
@@ -451,7 +495,8 @@
             "b": "se accelerează amortizarea capitalului tehnic fix;",
             "c": "se anticipează reducerea profiturilor viitoare;",
             "d": "crește cererea de consum."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 46,
@@ -461,7 +506,8 @@
             "b": "economisirea personală crește;",
             "c": "economisirea personală scade;",
             "d": "economisirea personală este negativă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 47,
@@ -471,7 +517,8 @@
             "b": "funcția de mijloc de rezervă;",
             "c": "funcția de mijloc de schimb;",
             "d": "funcția de mijloc de plată."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 48,
@@ -481,7 +528,8 @@
             "b": "creșterea numărului locurilor de muncă;",
             "c": "reducerea gradului de ocupare;",
             "d": "reducerea natalității."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 49,
@@ -491,7 +539,8 @@
             "b": "toate țările obțin rezultate economice din ce în ce mai bune;",
             "c": "specializarea economiilor naționale se reduce;",
             "d": "nicio țară nu poate să-și asigure toate bunurile de care are nevoie."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 50,
@@ -501,7 +550,8 @@
             "b": "tablou statistico-economic în care se include și prin care se compară încasările și plățile realizate de o țară din relațiile sale economice, financiare și monetare cu alte țări pe timp de un an;",
             "c": "fluxurile valorice cu străinătatea și stocul de resurse financiar-valutare, aflate la dispoziția unei economii naționale la un moment dat;",
             "d": "componenta a balanței comerciale."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 51,
@@ -511,7 +561,8 @@
             "b": "numărul celor care doresc să se angajeze în condiții salariale;",
             "c": "numărul de locuri de muncă;",
             "d": "populația aptă de muncă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 52,
@@ -521,7 +572,8 @@
             "b": "Venitul național plus impozitele indirecte;",
             "c": "Consumul plus investițiile;",
             "d": "PNB minus amortizarea."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 53,
@@ -531,7 +583,8 @@
             "b": "cheltuielile publice cresc;",
             "c": "veniturile publice scad;",
             "d": "toate răspunsurile sunt corecte."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 54,
@@ -541,7 +594,8 @@
             "b": "costul bunurilor ce se pot cumpăra cu bani lichizi;",
             "c": "dobânda care se pierde ca urmare a nedepunerii banilor la bancă;",
             "d": "dobânda care se câștigă prin depunerea banilor la bancă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 55,
@@ -551,7 +605,8 @@
             "b": "beneficiază de burse;",
             "c": "primesc bani de la familiile lor;",
             "d": "nu intră în populația activă disponibilă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 56,
@@ -561,7 +616,8 @@
             "b": "se acordă pe o perioadă nelimitată;",
             "c": "este atribuită în mod facultativ;",
             "d": "este mai mică decât salariul."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 57,
@@ -571,7 +627,8 @@
             "b": "puterea de cumpărare;",
             "c": "deficitul bugetar;",
             "d": "ratele dobânzilor."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 58,
@@ -581,7 +638,8 @@
             "b": "asigură sporirea masei monetare;",
             "c": "este sursa principală de îmbunătățire a standardului de viață a populației;",
             "d": "apar descoperiri științifice noi."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 59,
@@ -591,7 +649,8 @@
             "b": "oferta de monedă se reduce, iar cererea de monedă crește;",
             "c": "deficitul trezoreriei crește;",
             "d": "banca centrală emite mai puțină monedă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 60,
@@ -601,7 +660,8 @@
             "b": "de scădere susținută a nivelului general al prețurilor;",
             "c": "de creștere susținută a puterii de cumpărare a banilor;",
             "d": "de scădere susținută a puterii de cumpărare a banilor."
-          }
+          },
+          "raspuns_corect": "b"
         }
       ]
     },
@@ -616,7 +676,8 @@
             "b": "piața;",
             "c": "consumatorul;",
             "d": "concurența."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 62,
@@ -626,7 +687,8 @@
             "b": "fizică;",
             "c": "chimie;",
             "d": "biologie."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 63,
@@ -636,7 +698,8 @@
             "b": "de a intra în lichidare;",
             "c": "de a menține starea de sănătate a consumatorilor;",
             "d": "de a repartiza sarcini consumatorilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 64,
@@ -646,7 +709,8 @@
             "b": "previziunea;",
             "c": "eficiența;",
             "d": "redistribuirea."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 65,
@@ -656,7 +720,8 @@
             "b": "managementul de criză;",
             "c": "managementul prin obiective;",
             "d": "managementul costurilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 66,
@@ -666,7 +731,8 @@
             "b": "structurala;",
             "c": "după clienți;",
             "d": "temporală."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 67,
@@ -676,7 +742,8 @@
             "b": "preventiv;",
             "c": "permanent;",
             "d": "anticipativ."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 68,
@@ -686,7 +753,8 @@
             "b": "operațional;",
             "c": "structural;",
             "d": "conceptual."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 69,
@@ -696,7 +764,8 @@
             "b": "modul în care un manager gândește și acționează;",
             "c": "ținuta vestimentară;",
             "d": "obiceiurile."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 70,
@@ -706,7 +775,8 @@
             "b": "motivarea;",
             "c": "stimularea;",
             "d": "relațiile interpersonale bune cu membri colectivității."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 71,
@@ -716,7 +786,8 @@
             "b": "vârsta;",
             "c": "autoritatea managerială;",
             "d": "atitudinea."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 72,
@@ -726,7 +797,8 @@
             "b": "autoritatea managerială;",
             "c": "atitudinea fața de responsabilitate;",
             "d": "tipologia managerilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 73,
@@ -736,7 +808,8 @@
             "b": "firme comerciale;",
             "c": "lanțuri hoteliere;",
             "d": "bănci."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 74,
@@ -746,7 +819,8 @@
             "b": "capacitatea decizională;",
             "c": "cunoștințe de specialitate;",
             "d": "calitățile fizice și fiziologice."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 75,
@@ -756,7 +830,8 @@
             "b": "mediul demografic;",
             "c": "mediul ambiental;",
             "d": "furnizorii."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 76,
@@ -766,7 +841,8 @@
             "b": "mediul economic;",
             "c": "intermediarii;",
             "d": "organismele publice."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 77,
@@ -776,7 +852,8 @@
             "b": "nu permite interconectarea cu alte rețele;",
             "c": "necesită cheltuieli ridicate;",
             "d": "nu încurajează inițiativele și tot ceea ce contribuie la creșterea eficacității."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 78,
@@ -786,7 +863,8 @@
             "b": "compartimente de muncă;",
             "c": "birouri;",
             "d": "servicii."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 79,
@@ -796,7 +874,8 @@
             "b": "compartimente de stat major;",
             "c": "compartimente de decizie;",
             "d": "compartimente operative."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 80,
@@ -806,7 +885,8 @@
             "b": "programele operative și bugetele;",
             "c": "planurile de durată medie și lungă;",
             "d": "strategia."
-          }
+          },
+          "raspuns_corect": "b"
         }
       ]
     },
@@ -821,7 +901,8 @@
             "b": "creșterea cifrei de afaceri și a vânzărilor;",
             "c": "imaginea în cadrul pieței;",
             "d": "concurența."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 82,
@@ -831,7 +912,8 @@
             "b": "creșterea nivelului investițiilor;",
             "c": "reducerea riscului;",
             "d": "imagine favorabilă în rândul consumatorilor sau imaginea de marcă sau de firmă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 83,
@@ -841,17 +923,19 @@
             "b": "cercetarea pieței, a nevoilor de utilizare sau consum;",
             "c": "îmbunătățirea permanentă a capacității de adaptare a firmei la cerințele pieței;",
             "d": "fidelizarea consumatorilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
-          "numar": 484,
+          "numar": 84,
           "text": "Mediul politic și instituțional prezintă următoarele componente:",
           "variante": {
             "a": "sistemul politic și arsenalul lui legislativ;",
             "b": "societățile de investiții financiare;",
             "c": "furnizorii;",
             "d": "asociațiile consumatorilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 85,
@@ -861,7 +945,8 @@
             "b": "totală;",
             "c": "concurențială;",
             "d": "reglementată."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 86,
@@ -871,7 +956,8 @@
             "b": "structurală;",
             "c": "intensiv-extensivă;",
             "d": "temporală."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 87,
@@ -881,7 +967,8 @@
             "b": "competitivă;",
             "c": "permanentă;",
             "d": "anticipativă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 88,
@@ -891,7 +978,8 @@
             "b": "analitice;",
             "c": "aplicative;",
             "d": "de birou."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 89,
@@ -901,7 +989,8 @@
             "b": "cercetarea exploratorie;",
             "c": "eșantionul;",
             "d": "colectivitatea totală."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 90,
@@ -911,7 +1000,8 @@
             "b": "concentrate;",
             "c": "liderului;",
             "d": "următorului."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 91,
@@ -921,7 +1011,8 @@
             "b": "strategia calității ridicate;",
             "c": "strategia de consolidare;",
             "d": "strategia de extindere."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 92,
@@ -931,7 +1022,8 @@
             "b": "culoarea;",
             "c": "mirosul;",
             "d": "imaginea."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 93,
@@ -941,7 +1033,8 @@
             "b": "elemente corporale;",
             "c": "ambalaje;",
             "d": "elemente sintetice."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 94,
@@ -951,7 +1044,8 @@
             "b": "gradul de utilizare al produsului;",
             "c": "nivelul cererii de consum;",
             "d": "stabilitatea economică."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 95,
@@ -961,7 +1055,8 @@
             "b": "mediul demografic;",
             "c": "preferințele clienților;",
             "d": "d) localizare."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 96,
@@ -971,7 +1066,8 @@
             "b": "prețuri promoționale;",
             "c": "prețul promis;",
             "d": "prețuri de circumstanță."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 97,
@@ -981,7 +1077,8 @@
             "b": "elasticitatea;",
             "c": "lungimea;",
             "d": "ciclicitatea."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 98,
@@ -991,7 +1088,8 @@
             "b": "cinematograful;",
             "c": "radioul;",
             "d": "afișul."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 99,
@@ -1001,7 +1099,8 @@
             "b": "strategia de promovare a imaginii;",
             "c": "strategia de extindere a imaginii;",
             "d": "strategia de promovare exclusivă a produsului."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 100,
@@ -1011,7 +1110,8 @@
             "b": "strategia activității intermitente;",
             "c": "strategia ofensivă;",
             "d": "strategia de extindere a imaginii."
-          }
+          },
+          "raspuns_corect": "c"
         }
       ]
     },
@@ -1026,7 +1126,8 @@
             "b": "costurile sunt destul de ridicate, iar profiturile tind să scadă odată cu internaționalizării activităților companiei;",
             "c": "pot să învețe de la competitorii lor de pe toate piețele pe care activează;",
             "d": "beneficiază de personal talentat de pe piețele externe."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 102,
@@ -1036,7 +1137,8 @@
             "b": "marketingul internațional reprezintă procesul de planificare și conducere a tranzacțiilor dincolo de barierele naționale pentru a crea schimburi care să satisfacă obiectivele unor persoane sau organizații;",
             "c": "marketingul internațional reprezintă mijloacele moderne prin care se urmărește sensibilizarea companiilor și a publicului larg cu privire la procesul de degradare a mediului ambiant;",
             "d": "marketingul internațional reprezintă atragerea, perfecționarea și menținerea angajaților în funcții care să asigure utilizarea maximă și eficientă a capacității lor de muncă și totodată un sistem de motivații care să permită satisfacerea atât a necesităților materiale, cât și a aspirațiilor de ordin profesional ale personalului firmei."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 103,
@@ -1046,7 +1148,8 @@
             "b": "un proces care implică o transformare în organizarea spațială a relațiilor și tranzacțiilor sociale – atât în termeni de mărime, calitate, frecvență și impact – generând fluxuri și rețele transcontinentale și interregionale de activitate, interacțiune și exercitare a puterii;",
             "c": "realizarea unor înțelegeri între competitori care activează pe mai multe piețe;",
             "d": "ansamblu de procese prin care diferite state constituie un grup sau un bloc comercial."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 104,
@@ -1056,7 +1159,8 @@
             "b": "instituțiile;",
             "c": "sistemele de exercitare a puterii;",
             "d": "acțiunea la distanță."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 105,
@@ -1066,7 +1170,8 @@
             "b": "o inițiativă inter-statală, de o cuprindere deosebită, ce încearcă să reglementeze și să controleze relațiile internaționale;",
             "c": "faptul că apar noi entități, iar dimensiunea militară nu mai reprezintă esența puterii la nivel internațional;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 106,
@@ -1076,7 +1181,8 @@
             "b": "utilizarea limbii engleze drept formă de comunicare pe plan internațional;",
             "c": "internetul;",
             "d": "sistemele de clearing din sistemul bancar."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 107,
@@ -1086,7 +1192,8 @@
             "b": "cu o perspectivă policentrică;",
             "c": "cu o perspectivă regională;",
             "d": "cu o perspectivă geocentrică."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 108,
@@ -1096,7 +1203,8 @@
             "b": "cu o perspectivă policentrică;",
             "c": "cu o perspectivă regională;",
             "d": "cu o perspectivă geocentrică."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 109,
@@ -1106,7 +1214,8 @@
             "b": "hiperglobaliștii;",
             "c": "transformaționaliștii;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 110,
@@ -1116,7 +1225,8 @@
             "b": "hiperglobaliștii;",
             "c": "transformaționaliștii;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 111,
@@ -1126,7 +1236,8 @@
             "b": "pătrunderea cu ușurință pe piețe noi, cu puternice tradiții de consum;",
             "c": "posibilitatea creării unei mărci globale;",
             "d": "menținerea clienților care au o mobilitate internațională ridicată."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 112,
@@ -1136,7 +1247,8 @@
             "b": "produsele vor fi mai ușor acceptate de către consumatori;",
             "c": "posibilitatea uniformizării eforturilor de promovare ale companiei;",
             "d": "compania beneficiază de economii de scală."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 113,
@@ -1146,7 +1258,8 @@
             "b": "numele de marcă;",
             "c": "unitatea strategică de afaceri;",
             "d": "mixul de marketing."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 114,
@@ -1156,7 +1269,8 @@
             "b": "produsul, promovarea, distribuția, prețul;",
             "c": "promovarea, distribuția, produsul, prețul;",
             "d": "distribuția, produsul, promovarea, prețul."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 115,
@@ -1166,7 +1280,8 @@
             "b": "reprezintă strategia de a utiliza, pe lângă numele de marcă al companiei, și nume de marcă specifice unor anumite categorii sau game de produse realizate de către companie, care permit diferențierea între produsele aceleiași companii;",
             "c": "strategia de a promova în mod proeminent numele de marcă al produsului dar de a alătura și numele de marcă al companiei pentru a familiariza consumatorii cu noul nume de marcă;",
             "d": "strategia prin care anumite produse sau game de produse ale companiei au căpătat o asemenea recunoaștere, încât alăturarea numelui companiei producătoare nu mai este necesară."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 116,
@@ -1176,7 +1291,8 @@
             "b": "reprezintă strategia de a utiliza, pe lângă numele de marcă al companiei, și nume de marcă specifice unor anumite categorii sau game de produse realizate de către companie, care permit diferențierea între produsele aceleiași companii;",
             "c": "strategia de a promova în mod proeminent numele de marcă al produsului dar de a alătura și numele de marcă al companiei pentru a familiariza consumatorii cu noul nume de marcă;",
             "d": "strategia prin care anumite produse sau game de produse ale companiei au căpătat o asemenea recunoaștere, încât alăturarea numelui companiei producătoare nu mai este necesară."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 117,
@@ -1186,7 +1302,8 @@
             "b": "prețul;",
             "c": "parteneriatele;",
             "d": "promovarea."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 118,
@@ -1196,7 +1313,8 @@
             "b": "personalul de marketing;",
             "c": "grupurile de presiune;",
             "d": "politicienii."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 119,
@@ -1206,7 +1324,8 @@
             "b": "guvernul, prin taxele impuse, poate determina creșterea prețului unor produse și pierderea unor clienți de către companii;",
             "c": "prin agențiile sale reglementează acordarea unor ajutoare către populație (de exemplu alocații pentru copii, ajutor de creștere a copilului pentru mame etc.);",
             "d": "acționează independent asupra economiei, nefiind permisă implicarea niciunei organizații."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 120,
@@ -1216,7 +1335,8 @@
             "b": "politicienii nu au impact asupra activității companiilor, ci doar acțiunile diferitelor grupuri de presiune;",
             "c": "în majoritatea țărilor vest-europene, situația politică este relativ stabilă, însă în țările mai puțin dezvoltate există un anumit grad de instabilitate care poate afecta companiile ce investesc pe piețele respective;",
             "d": "companiile sunt afectate de orice schimbare în sistemul de guvernare; schimbarea de guvern înseamnă taxe noi care pot fi prevăzute chiar pentru domeniul în care acestea activează."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 121,
@@ -1226,7 +1346,8 @@
             "b": "stabilitatea prețurilor (în principal inflația);",
             "c": "cât de liberi sunt întreprinzătorii de a înființa noi afaceri, de a obține licențe sau de a-și lichida afacerea;",
             "d": "ponderea cheltuielilor guvernamentale în PIB ca măsură a intervenției acestuia în economie."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 122,
@@ -1236,7 +1357,8 @@
             "b": "calculul atât a mărimii medii a taxelor vamale (80% din subindice) cât și a barierelor netarifare în calea comerțului (pondere de 20%);",
             "c": "gradul de corupție din țara respectivă și este cu atât mai ridicată cu cât corupția este mai redusă;",
             "d": "ponderea cheltuielilor guvernamentale în PIB ca măsură a intervenției acestuia în economie."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 123,
@@ -1246,7 +1368,8 @@
             "b": "stabilitatea prețurilor (în principal inflația);",
             "c": "gradul de corupție din țara respectivă și este cu atât mai ridicată cu cât corupția este mai redusă;",
             "d": "piața forței de muncă, indicele fiind au atât mai redus cu cât există restricții în ceea ce privește nivelul salariilor iar flexibilitatea de pe piața forței de muncă este mai redusă."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 124,
@@ -1256,7 +1379,8 @@
             "b": "stabilitatea prețurilor (în principal inflația);",
             "c": "măsura a cât de liberi sunt întreprinzătorii de a înființa noi afaceri, de a obține licențe sau de a-și lichida afacerea;",
             "d": "ponderea cheltuielilor guvernamentale în PIB ca măsură a intervenției acestuia în economie."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 125,
@@ -1266,7 +1390,8 @@
             "b": "stabilitatea prețurilor (în principal inflația);",
             "c": "gradul de corupție din țara respectivă și este cu atât mai ridicată cu cât corupția este mai redusă;",
             "d": "piața forței de muncă, indicele fiind atât mai redus cu cât există restricții în ceea ce privește nivelul salariilor iar flexibilitatea de pe piața forței de muncă este mai redusă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 126,
@@ -1276,7 +1401,8 @@
             "b": "stabilitatea prețurilor (în principal inflația);",
             "c": "gradul de corupție din țara respectivă și este cu atât mai ridicată cu cât corupția este mai redusă;",
             "d": "ponderea cheltuielilor guvernamentale în PIB ca măsură a intervenției acestuia în economie."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 127,
@@ -1286,7 +1412,8 @@
             "b": "stabilitatea prețurilor (în principal inflația);",
             "c": "gradul de corupție din țara respectivă și este cu atât mai ridicată cu cât corupția este mai redusă;",
             "d": "piața forței de muncă, indicele fiind atât mai redus cu cât există restricții în ceea ce privește nivelul salariilor iar flexibilitatea de pe piața forței de muncă este mai redusă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 128,
@@ -1296,7 +1423,8 @@
             "b": "cunoașterea, măsurată prin rata de alfabetizare a adulților dar și prin gradul de înscriere în învățământul primar, secundar și terțiar;",
             "c": "un standard decent de viață, reprezentat prin valoarea PIB/locuitor;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 129,
@@ -1306,7 +1434,8 @@
             "b": "schimbarea conducerii politice a țării;",
             "c": "scăderea prețurilor materiilor prime (petrol, gaz metan) de care această țară era dependentă;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 130,
@@ -1316,7 +1445,8 @@
             "b": "a avut efecte și în plan politic în sensul că în multe state a fost instaurată dictatura;",
             "c": "prețul petrolului a explodet de la 3$ la 12$ pe baril;",
             "d": "criza s-a datorat deciziei statelor membre O.P.E.C. de a stopa furnizarea de petrol către S.U.A., Olanda ș.a."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 131,
@@ -1326,7 +1456,8 @@
             "b": "utilizarea hărțuirii sau constrângerii pentru a distorsiona semnificativ libertatea de alegere a unui consumator în ceea ce privește produsul, pe care îl achiziționează exclusiv datorită acestor acțiuni negative;",
             "c": "orice activitate de publicitate care decepționează persoanele cărora le este adresată și care, prin natura sa înșelătoare, este cel mai probabil a le afecta comportamentul viitor, având efecte negative și asupra activității unor competitori;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 132,
@@ -1336,7 +1467,8 @@
             "b": "utilizarea hărțuirii sau constrângerii pentru a distorsiona semnificativ libertatea de alegere a unui consumator în ceea ce privește produsul, pe care îl achiziționează exclusiv datorită acestor acțiuni negative;",
             "c": "orice activitate de publicitate care decepționează persoanele cărora le este adresată și care, prin natura sa înșelătoare, este cel mai probabil a le afecta comportamentul viitor, având efecte negative și asupra activității unor competitori;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 133,
@@ -1346,7 +1478,8 @@
             "b": "bunăstarea consumatorilor;",
             "c": "protejarea micilor investitori;",
             "d": "obținerea unor sume importante din amenzi pentru Comisia Europeană."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 134,
@@ -1356,7 +1489,8 @@
             "b": "statul se poate implica în sensul stimulării rivalității între aceste firme precum și prin protejarea acestei structuri a pieței (prin interzicerea fuziunilor sau achizițiilor);",
             "c": "acest criteriu pune accent pe alocarea eficientă a resurselor;",
             "d": "o piață este concurențială atunci când există un număr suficient de mare de firme producătoare care să se concureze activ și care să aibă o putea de piață redusă în raport cu furnizorii, concurenții și clienții."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 135,
@@ -1366,7 +1500,8 @@
             "b": "o cotă de piață de 40 - 50 % poate conferi o poziție dominantă;",
             "c": "sub 25% nu sunt luate în considerare pentru poziția dominantă;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 136,
@@ -1376,7 +1511,8 @@
             "b": "obligarea consumatorului în momentul în care dorește să cumpere un produs (produsul principal) să mai achiziționeze un alt produs (produsul legat);",
             "c": "înțelegerea dintre o companie aflată în poziție dominantă și un furnizor sau distribuitor de a vinde, produce, achiziționa sau revinde numai produsele precizate în contract sau în unele cazuri, exclusivitatea poate fi și până la doar 80%;",
             "d": "cazul unei companii aflată într-o poziție dominantă atât pe piața produsului final, cât și pe cea a materiilor prime, aceasta comercializând produsul său la prețuri scăzute, dar percepând totodată companiilor concurente prețuri foarte ridicate pentru materiile prime pe care le comercializează, având ca efect un preț ridicat pentru produsul final al acestora."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 137,
@@ -1386,7 +1522,8 @@
             "b": "obligarea consumatorului în momentul în care dorește să cumpere un produs (produsul principal) să mai achiziționeze un alt produs (produsul legat);",
             "c": "înțelegerea dintre o companie aflată în poziție dominantă și un furnizor sau distribuitor de a vinde, produce, achiziționa sau revinde numai produsele precizate în contract sau în unele cazuri, exclusivitatea poate fi și până la doar 80%;",
             "d": "cazul unei companii aflată într-o poziție dominantă atât pe piața produsului final, cât și pe cea a materiilor prime, aceasta comercializând produsul său la prețuri scăzute, dar percepând totodată companiilor concurente prețuri foarte ridicate pentru materiile prime pe care le comercializează, având ca efect un preț ridicat pentru produsul final al acestora."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 138,
@@ -1396,7 +1533,8 @@
             "b": "cazul unei companii care comercializează două produse, A și B împreună, fără opțiunea din partea consumatorilor de a le achiziționa și individual, în cele mai multe situații, aceste practici fiind rezultatul unui monopol;",
             "c": "strategia companiei de a vinde o perioadă scurtă de timp la prețuri foarte scăzute, pentru a-și slăbi concurenții, urmând o perioadă de creștere substanțială a prețurilor, în care se va recupera pierderea inițială, compania obținând profituri mult mai ridicate decât înainte de utilizarea acestui comportament;",
             "d": "situația în care o companie în poziție dominantă pretinde prețuri variate pentru consumatori diferiți."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 139,
@@ -1406,7 +1544,8 @@
             "b": "cartelurile;",
             "c": "prețurile agresive;",
             "d": "fuziuni."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 140,
@@ -1416,7 +1555,8 @@
             "b": "faptul că legislația în domeniul concurenței interzice producătorului să fixeze în formă absolută prețurile pe care distribuitorii le practică și să apeleze doar la prețuri recomandate;",
             "c": "cazul în care producătorul acordă exclusivitate pe un anumit teritoriu unui anumit distribuitor independent;",
             "d": "o tranzacție prin care o companie achiziționează integral o altă companie."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 141,
@@ -1426,7 +1566,8 @@
             "b": "faptul că legislația în domeniul concurenței interzice producătorului să fixeze în formă absolută prețurile pe care distribuitorii le practică și să apeleze doar la prețuri recomandate;",
             "c": "cazul în care producătorul acordă exclusivitate pe un anumit teritoriu unui anumit distribuitor independent;",
             "d": "o tranzacție prin care o companie achiziționează integral o altă companie."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 142,
@@ -1436,7 +1577,8 @@
             "b": "localizarea;",
             "c": "interacțiunile;",
             "d": "mobilitatea populației."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 143,
@@ -1446,7 +1588,8 @@
             "b": "interacțiunile dintre mediul natural și intervenția umană;",
             "c": "calitatea, cantitatea și structura forței de muncă disponibile;",
             "d": "transferul de bunuri sau de capital."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 144,
@@ -1456,7 +1599,8 @@
             "b": "hidrologia;",
             "c": "clima;",
             "d": "populația."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 145,
@@ -1466,7 +1610,8 @@
             "b": "calitatea, cantitatea și structura forței de muncă disponibile;",
             "c": "prezența anumitor zăcăminte importante;",
             "d": "formele de relief ale zonei respective."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 146,
@@ -1476,7 +1621,8 @@
             "b": "calitatea, cantitatea și structura forței de muncă disponibile;",
             "c": "prezența anumitor zăcăminte importante;",
             "d": "formele de relief ale zonei respective."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 147,
@@ -1486,7 +1632,8 @@
             "b": "numărul persoanelor disponibile care au deprinderile necesare pentru a satisface nevoile angajatorilor;",
             "c": "persoanele care merg într-o țară străină în mod legal pentru a presta un anumit tip de muncă;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 148,
@@ -1496,7 +1643,8 @@
             "b": "numărul persoanelor disponibile care au deprinderile necesare pentru a satisface nevoile angajatorilor;",
             "c": "persoanele care merg într-o țară străină în mod legal pentru a presta un anumit tip de muncă;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 149,
@@ -1506,7 +1654,8 @@
             "b": "numărul persoanelor disponibile care au deprinderile necesare pentru a satisface nevoile angajatorilor;",
             "c": "persoanele care merg într-o țară străină în mod legal pentru a presta un anumit tip de muncă;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 150,
@@ -1516,7 +1665,8 @@
             "b": "problemele politice din țara de origine;",
             "c": "percepția existenței unei oportunități în țara de destinație;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 151,
@@ -1526,7 +1676,8 @@
             "b": "crește rolul femeii în societate tendința fiind de a se obține un echilibru al timpului petrecut în cadrul familiei precum și cel la locul de muncă de către bărbați și femei în mod egal; femeile cu studii ...superioare și carieră sunt un element obișnuit al mediului în care trăim;",
             "c": "crește speranța de viață pe măsură ce oamenii sunt preocupați de menținerea unei vieți sănătoase (ceea ce include sport și alimentație corespunzătoare);",
             "d": "nu există o prea mare disponibilitate pe plan internațional din partea populației de a munci și a-și schimba domiciliul într-o altă țară."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 152,
@@ -1536,7 +1687,8 @@
             "b": "este importantă pentru strângerea de informații;",
             "c": "diferențele de limbaj nu sunt importante în cadrul încheierii contractelor;",
             "d": "managerii de filiale sunt primii posesori de informații de pe piața unde-și desfășoară activitatea și pot transmite companiei – mamă aceste informații."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 153,
@@ -1546,7 +1698,8 @@
             "b": "budism;",
             "c": "islamism;",
             "d": "creștinism."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 154,
@@ -1556,7 +1709,8 @@
             "b": "se bazează pe cinci tipuri de relații sociale între membrii societății: suveran - supus, tată - fiu, frate mai mare - frate mai mic, soț - soție, prieten - prieten;",
             "c": "pe baza acestei doctrine, suveranii numeau în funcțiile publice doar membrii ai familiei;",
             "d": "reprezintă mai mult un cod de conduită, decât o religie, bazându-se pe loialitate, apartenența la un grup și pe respectul ierarhiei."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 155,
@@ -1566,7 +1720,8 @@
             "b": "confucianismul;",
             "c": "hinduismul;",
             "d": "islamismul."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 156,
@@ -1576,7 +1731,8 @@
             "b": "evaluarea unor alternative în funcție de valori;",
             "c": "modul în care societatea își organizează activitățile economice;",
             "d": "percepția fiecărei culturi despre ceea ce este considerat de bun taste, precum și diferitele simboluri pentru anumite culori."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 157,
@@ -1586,7 +1742,8 @@
             "b": "evaluarea unor alternative în funcție de valori;",
             "c": "modul în care societatea își organizează activitățile economice;",
             "d": "percepția fiecărei culturi despre ceea ce este considerat de bun taste, precum și diferitele simboluri pentru anumite culori."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 158,
@@ -1596,7 +1753,8 @@
             "b": "teoria atribuirii, care reprezintă explicația pe care o persoană o dezvoltă în legătură cu o întâmplare;",
             "c": "faptul că diferențele culturale naționale pot fi cauza unor percepții diferite ale managerilor asupra a ceea ce poate fi considerat etic sau lipsit de etic;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 159,
@@ -1606,7 +1764,8 @@
             "b": "teoria atribuirii, care reprezintă explicația pe care o persoană o dezvoltă în legătură cu o întâmplare;",
             "c": "faptul că diferențele culturale naționale pot fi cauza unor percepții diferite ale managerilor asupra a ceea ce poate fi considerat etic sau lipsit de etic;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 160,
@@ -1616,7 +1775,8 @@
             "b": "persoanele simt că dețin controlul asupra vieții lor;",
             "c": "indivizii atribuie rezultatul vieții lor muncii depuse și voinței; nu există încredere în soartă sau noroc, ci doar în forțele proprii;",
             "d": "țări în special din Asia au drept credință faptul că orice rezultat obținut de către oameni este prestabilit de Dumnezeu."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 161,
@@ -1626,7 +1786,8 @@
             "b": "persoanele cred că nu au nici o putere să-și schimbe ceea ce le este sortit, iar evenimentele din viața fiecăruia se întâmplă doar din voia lui Dumnezeu;",
             "c": "în această cultură tot ceea ce se întâmplă se consideră cauzat de soartă și noroc (forțe externe);",
             "d": "persoanele nu depun prea mult efort pentru că „soarta le este deja scrisă”."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 162,
@@ -1636,7 +1797,8 @@
             "b": "transferul profiturilor realizate de o filială către țara de origine a societății cu activitate internațională;",
             "c": "standardizarea versus adaptarea locală a produselor;",
             "d": "costuri scăzute ale forței de muncă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 163,
@@ -1646,7 +1808,8 @@
             "b": "decizia este luată la cel mai înalt nivel de management, de regulă chiar de către președintele companiei împreună cu Consiliul de Administrație precum și acționarii săi principali;",
             "c": "activitatea de intrare pe piețele străine presupune o activitate semnificativă de cercetare-dezvoltare care să genereze o inovație continuă;",
             "d": "decizia de internaționalizare are în vedere un termen scurt."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 164,
@@ -1656,7 +1819,8 @@
             "b": "conștientizarea existenței oportunităților de afaceri pe piața internațională;",
             "c": "evaluarea poziției pe piață față de principalii competitori;",
             "d": "determinarea segmentului de consumatori cărora li se adresează produsele companiei respective."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 165,
@@ -1666,7 +1830,8 @@
             "b": "reactive;",
             "c": "negative;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 166,
@@ -1676,7 +1841,8 @@
             "b": "cunoștințe speciale asupra unui client extern;",
             "c": "profiturile;",
             "d": "supraproducția."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 167,
@@ -1686,7 +1852,8 @@
             "b": "mărirea profiturilor prin procurarea unor materii prime mai ieftine;",
             "c": "diminuarea numărului de angajați;",
             "d": "diminuarea costurilor pe unitatea de produs prin mărirea producției."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 168,
@@ -1696,7 +1863,8 @@
             "b": "societăți mixte;",
             "c": "export;",
             "d": "investiția străină directă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 169,
@@ -1706,7 +1874,8 @@
             "b": "cooperarea are un caracter organic (instituționalizat), în sensul că partenerii dețin părți dintr-o societate, care poate fi creată sau rezultată din transformarea unei societăți deja existente (prin preluarea de acțiuni de către uno dintre parteneri);",
             "c": "relațiile dintre părți sunt de scurtă durată;",
             "d": "cooperarea dintre părți are caracter complex și evolutiv."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 170,
@@ -1716,7 +1885,8 @@
             "b": "licențierea;",
             "c": "investiția străină directă;",
             "d": "exportul indirect."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 171,
@@ -1726,7 +1896,8 @@
             "b": "un plan pe termen scurt destinat atingerii unui scop sau obiectiv;",
             "c": "modul în care o persoană acceptă o idee nouă;",
             "d": "nici o variantă corectă."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 172,
@@ -1736,7 +1907,8 @@
             "b": "compania dorește să își crească vânzările prin încercarea de a mări piața în ansamblul ei (ca, de exemplu, să îi convingă pe consumatori să consume mai des produsul său);",
             "c": "se adaugă noi funcționalități și servicii produselor companiei;",
             "d": "compania lansează și produse pe care anterior nu le avea în oferta sa."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 173,
@@ -1746,7 +1918,8 @@
             "b": "compania urmărește un pionier care a lansat un nou produs inovator;",
             "c": "compania ia decizia de a intra pe o piață pe care deja se manifestă o concurență destul de importantă datorită prezenței unui număr destul de mare de producători;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 174,
@@ -1756,7 +1929,8 @@
             "b": "compania înregistrează performanțe nesatisfăcătoare, dar există o posibilitate de îmbunătățire a acestora; ea trebuie să își schimbe situația sau să se retragă de pe piață;",
             "c": "compania dispune de o forță exploatabilă prin anumite strategii și are bune posibilități de a-și exploata poziția;",
             "d": "compania nu deține rezultate satisfăcătoare și nici nu dispune de posibilități de îmbunătățire."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 175,
@@ -1766,7 +1940,8 @@
             "b": "presupune punerea accentului pe un anumit grup de clienți, segment al liniei de produse sau piață geografică;",
             "c": "se bazează pe diferențierea produsului oferit de către companie printr-o anumită caracteristică prin care dobândește unicitate în respectivul sector de activitate;",
             "d": "se bazează pe fidelizarea clienților față de marca comercială și a unei sensibilități mai mici a acestora la modificările de preț."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 176,
@@ -1776,7 +1951,8 @@
             "b": "se bazează pe diferențierea produsului oferit de către companie printr-o anumită caracteristică prin care dobândește unicitate în respectivul sector de activitate;",
             "c": "se bazează pe fidelizarea clienților față de marca comercială și a unei sensibilități mai mici a acestora la modificările de preț;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 177,
@@ -1786,7 +1962,8 @@
             "b": "faptul că, fiind o strategie ofensivă, se dorește creșterea cotei de piață în special printr-un război al prețurilor;",
             "c": "faptul că presupune o apropiere până la similitudine cu strategia celor care dețin supremația pe piață și anume copierea tuturor elementelor mixului de marketing;",
             "d": "concentrarea activității pe segmente mici de piață sau nișe de piață."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 178,
@@ -1796,7 +1973,8 @@
             "b": "faptul că, fiind o strategie ofensivă, se dorește creșterea cotei de piață în special printr-un război al prețurilor;",
             "c": "faptul că presupune o apropiere până la similitudine cu strategia celor care dețin supremația pe piață și anume copierea tuturor elementelor mixului de marketing;",
             "d": "concentrarea activității pe segmente mici de piață sau nișe de piață."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 179,
@@ -1806,7 +1984,8 @@
             "b": "faptul că, fiind o strategie ofensivă, se dorește creșterea cotei de piață în special printr-un război al prețurilor;",
             "c": "faptul că presupune o apropiere până la similitudine cu strategia celor care dețin supremația pe piață și anume copierea tuturor elementelor mixului de marketing;",
             "d": "concentrarea activității pe segmente mici de piață sau nișe de piață."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 180,
@@ -1816,7 +1995,8 @@
             "b": "faptul că, fiind o strategie ofensivă, se dorește creșterea cotei de piață în special printr-un război al prețurilor;",
             "c": "faptul că presupune o apropiere până la similitudine cu strategia celor care dețin supremația pe piață și anume copierea tuturor elementelor mixului de marketing;",
             "d": "concentrarea activității pe segmente mici de piață sau nișe de piață."
-          }
+          },
+          "raspuns_corect": "d"
         }
       ]
     },
@@ -1831,7 +2011,8 @@
             "b": "imposibilitatea lor de a fi stocate mai mult de o săptămână;",
             "c": "faptul ca ele sunt trecătoare;",
             "d": "imposibilitatea stocării sau păstrării lor pentru un consum ulterior;"
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 182,
@@ -1841,7 +2022,8 @@
             "b": "reprezintă principalul scop al tranzacției;",
             "c": "sau oferite în mod suplimentar în cazul unei achiziții de produse;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 183,
@@ -1851,7 +2033,8 @@
             "b": "de sănătate;",
             "c": "de cosmetică;",
             "d": "de învățământ."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 184,
@@ -1861,7 +2044,8 @@
             "b": "Inseparabilitate;",
             "c": "Intangibilitate;",
             "d": "Perisabilitate."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 185,
@@ -1871,7 +2055,8 @@
             "b": "Inseparabilitate;",
             "c": "Intangibilitate;",
             "d": "Perisabilitate."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 186,
@@ -1881,7 +2066,8 @@
             "b": "sunt oferite în mod suplimentar;",
             "c": "sunt oferite în mod suplimentar în cazul unei achiziții de produse;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 187,
@@ -1891,7 +2077,8 @@
             "b": "furnizorii;",
             "c": "mediul legislativ;",
             "d": "terenul."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 188,
@@ -1901,7 +2088,8 @@
             "b": "clădiri;",
             "c": "echipamente;",
             "d": "personal."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 189,
@@ -1911,7 +2099,8 @@
             "b": "psihografică;",
             "c": "geografică;",
             "d": "demografică."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 190,
@@ -1921,7 +2110,8 @@
             "b": "psihografică;",
             "c": "geografică;",
             "d": "demografică."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 191,
@@ -1931,7 +2121,8 @@
             "b": "volumul ofertei;",
             "c": "volumul tranzacțiilor pe piață;",
             "d": "cota de piață."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 192,
@@ -1941,7 +2132,8 @@
             "b": "aria;",
             "c": "structura;",
             "d": "capacitatea."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 193,
@@ -1951,7 +2143,8 @@
             "b": "capacitatea pieței;",
             "c": "cererea de servicii;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 194,
@@ -1961,7 +2154,8 @@
             "b": "capacitatea pieței;",
             "c": "cererea de servicii;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 195,
@@ -1971,7 +2165,8 @@
             "b": "Informații;",
             "c": "Bunuri;",
             "d": "Piețe."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 196,
@@ -1981,7 +2176,8 @@
             "b": "imaginea organizației prestatoare;",
             "c": "concepția personală despre servicii;",
             "d": "percepția propriului rol asupra prestării serviciului."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 197,
@@ -1991,7 +2187,8 @@
             "b": "serviciul previzionat;",
             "c": "concepția personală despre servicii;",
             "d": "percepția propriului rol asupra prestării serviciului."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 198,
@@ -2001,7 +2198,8 @@
             "b": "nivel minim;",
             "c": "nivel căutat;",
             "d": "nivel dorit."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 199,
@@ -2011,7 +2209,8 @@
             "b": "nivel minim;",
             "c": "nivel căutat;",
             "d": "nivel dorit."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 200,
@@ -2021,7 +2220,8 @@
             "b": "motivația;",
             "c": "atitudinea;",
             "d": "învățarea."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 201,
@@ -2031,7 +2231,8 @@
             "b": "motivația;",
             "c": "atitudinea;",
             "d": "învățarea."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 202,
@@ -2041,7 +2242,8 @@
             "b": "motivația;",
             "c": "atitudinea;",
             "d": "învățarea."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 203,
@@ -2051,7 +2253,8 @@
             "b": "procesul, partea tangibilă, pregătirea;",
             "c": "publicitatea, plasarea, personalul;",
             "d": "personalul, procesul, partea fizică."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 204,
@@ -2061,7 +2264,8 @@
             "b": "un mijloc de poziționare a produsului pe piață;",
             "c": "imposibilitatea stocării serviciilor în momentul manifestării cererii;",
             "d": "imposibilitatea livrării serviciilor în momentul manifestării cererii;"
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 205,
@@ -2071,7 +2275,8 @@
             "b": "Cauze legate de cunoaștere;",
             "c": "Cauze legate de percepție;",
             "d": "Toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 206,
@@ -2081,7 +2286,8 @@
             "b": "Global;",
             "c": "Variabil;",
             "d": "Tangibil."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 207,
@@ -2091,7 +2297,8 @@
             "b": "este considerat ca fiind alcătuit dintr-o serie de elemente tangibile, care prin rolul jucat în crearea și livrarea serviciilor apar în calitate de elemente corporale.",
             "c": "este format din condițiile minime care se adaugă la produsul de bază și fără de care, realizarea acestuia nu este posibilă, sau calitatea sa este afectată considerabil.",
             "d": "sunt formate din ansamblul de elemente care conferă un grad înalt de personalizare serviciilor, fiind în același timp atribute pe baza cărora se poate realiza poziționarea organizației."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 208,
@@ -2101,7 +2308,8 @@
             "b": "este considerat ca fiind alcătuit dintr-o serie de elemente tangibile, care prin rolul jucat în crearea și livrarea serviciilor apar în calitate de elemente corporale.",
             "c": "este format din condițiile minime care se adaugă la produsul de bază și fără de care, realizarea acestuia nu este posibilă, sau calitatea sa este afectată considerabil.",
             "d": "sunt formate din ansamblul de elemente care conferă un grad înalt de personalizare serviciilor, fiind în același timp atribute pe baza cărora se poate realiza poziționarea organizației."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 209,
@@ -2111,7 +2319,8 @@
             "b": "Fiabilitatea;",
             "c": "Empatia;",
             "d": "Prețul suportului fizic al serviciului."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 210,
@@ -2121,7 +2330,8 @@
             "b": "diferențierea serviciilor;",
             "c": "productivitatea serviciilor;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 211,
@@ -2131,7 +2341,8 @@
             "b": "Utilizarea mărcilor;",
             "c": "Promovarea;",
             "d": "Nicio variantă nu este corectă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 212,
@@ -2141,7 +2352,8 @@
             "b": "distribuția;",
             "c": "promovarea;",
             "d": "produsul."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 213,
@@ -2151,7 +2363,8 @@
             "b": "oferirea concomitentă atât a unui preț global cât și a unor prețuri individualizate pe diferite componente ale produsului global.",
             "c": "a vinde un produs nou la un preț ridicat pentru a obține un profit maxim într-un scurt timp.",
             "d": "individualizarea produselor componente."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 214,
@@ -2161,7 +2374,8 @@
             "b": "oferirea concomitentă atât a unui preț global cât și a unor prețuri individualizate pe diferite componente ale produsului global.",
             "c": "a vinde un produs nou la un preț ridicat pentru a obține un profit maxim într-un scurt timp.",
             "d": "individualizarea produselor componente."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 215,
@@ -2171,7 +2385,8 @@
             "b": "de diferențiere;",
             "c": "a prețurilor înalte;",
             "d": "a prețurilor forfetare."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 216,
@@ -2181,7 +2396,8 @@
             "b": "de diferențiere;",
             "c": "a prețurilor înalte;",
             "d": "a prețurilor forfetare."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 217,
@@ -2191,7 +2407,8 @@
             "b": "mai mic;",
             "c": "forfetar;",
             "d": "diferențiat."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 218,
@@ -2201,7 +2418,8 @@
             "b": "strategii de „împuternicire”;",
             "c": "strategii de parteneriat;",
             "d": "toate variantele sunt corecte."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 219,
@@ -2211,7 +2429,8 @@
             "b": "presupune alegerea și utilizarea unui singur canal promoțional;",
             "c": "are în vedere utilizarea numai a acelor mijloace care asigură cea mai bună comunicare, în condițiile unei oferte de servicii diverse și a unei piețe segmentate.",
             "d": "este mai rar întâlnită și este utilizată în cazul unei piețe neuniforme."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 220,
@@ -2221,7 +2440,8 @@
             "b": "presupune alegerea și utilizarea unui singur canal promoțional;",
             "c": "are în vedere utilizarea numai a acelor mijloace care asigură cea mai bună comunicare, în condițiile unei oferte de servicii diverse și a unei piețe segmentate.",
             "d": "este mai rar întâlnită și este utilizată în cazul unei piețe neuniforme."
-          }
+          },
+          "raspuns_corect": "b"
         }
       ]
     },
@@ -2236,7 +2456,8 @@
             "b": "materialul săditor;",
             "c": "produsele destinate nutriției animalelor;",
             "d": "semințele pentru însămânțare."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 222,
@@ -2246,7 +2467,8 @@
             "b": "fenomenul subconsumului;",
             "c": "sezonalitatea consumului;",
             "d": "agenții economici."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 223,
@@ -2256,7 +2478,8 @@
             "b": "nedeterminată;",
             "c": "determinată, de regulă o lună;",
             "d": "nu depinde de o perioadă de timp."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 224,
@@ -2266,7 +2489,8 @@
             "b": "sezonalitatea, perisabilitatea, caracterul elastic al ofertei de produse agricole;c) variabilitatea cantitativă, sezonalitatea, caracterul elastic al ofertei de produse agricole;",
             "c": "variabilitatea calitativă, sezonalitatea, caracterul elastic al ofertei de produse agricole.",
             "d": "niciuna din variantele de mai sus"
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 225,
@@ -2276,7 +2500,8 @@
             "b": "statul, societățile comerciale și consumatorul;",
             "c": "societățile comerciale, consumatorul și societatea civilă;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 226,
@@ -2286,7 +2511,8 @@
             "b": "asigurarea calității;",
             "c": "creșterea numărului de angajați în agricultură;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 227,
@@ -2296,7 +2522,8 @@
             "b": "1379;",
             "c": "1679;",
             "d": "2018."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 228,
@@ -2306,7 +2533,8 @@
             "b": "Viva;",
             "c": "Amigo;",
             "d": "Nescafé."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 229,
@@ -2316,7 +2544,8 @@
             "b": "durata prezenței pe piață a produsului, posibilitatea stocării produselor, implicarea autorităților;",
             "c": "reglementările europene, posibilitatea stocării produselor, implicarea autorităților;",
             "d": "niciuna din variantele de mai sus"
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 230,
@@ -2326,7 +2555,8 @@
             "b": "vânzarea electronică;",
             "c": "magazinul de proximitate;",
             "d": "vânzarea prin telefon."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 231,
@@ -2336,7 +2566,8 @@
             "b": "la bază;",
             "c": "nu este parte a piramidei;",
             "d": "în vârf."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 232,
@@ -2346,7 +2577,8 @@
             "b": "Indicație geologică protejată;",
             "c": "Indicație geografică neprotejată;",
             "d": "Sistem global de localizare."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 233,
@@ -2356,7 +2588,8 @@
             "b": "1979;",
             "c": "1993;",
             "d": "încă nu a fost lansat."
-          }
+          },
+          "raspuns_corect": "c"
         }
       ]
     },
@@ -2371,7 +2604,8 @@
             "b": "simulare;",
             "c": "fenomene economice;",
             "d": "procese economice."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 235,
@@ -2381,7 +2615,8 @@
             "b": "modelul real, sistemul abstract și sistemul simulat;",
             "c": "sistemul real, sistemul simulat și modelul abstract;",
             "d": "sistemul generat, modelul simulat și sistemul abstract."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 236,
@@ -2391,7 +2626,8 @@
             "b": "programarea pe calculator;",
             "c": "definirea relațiilor dintre variabile;",
             "d": "selectarea celor mai importante variabile."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 237,
@@ -2401,7 +2637,8 @@
             "b": "trei dintre variabile;c) toate variabilele care interacționează;",
             "c": "variabilele programate.",
             "d": "niciun răspuns din cele de mai sus"
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 238,
@@ -2411,7 +2648,8 @@
             "b": "nu alege soluții optime;",
             "c": "realitatea este complicată;",
             "d": "este o metodă descriptivă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 239,
@@ -2421,7 +2659,8 @@
             "b": "urmărirea obiectivelor se face pe o perioadă lungă de timp;",
             "c": "determinarea dependenței;",
             "d": "stabilirea de relații."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 240,
@@ -2431,7 +2670,8 @@
             "b": "tehnici de rulare, contextul funcțional, rezultate valorificate, utilizare;",
             "c": "utilizarea validității, funcționalitate de rulare, funcționalitate contextuală;",
             "d": "funcționalitate, costuri, tehnici de rulare, contextul utilizării, gradul de validitate și valoarea rezultatelor."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 241,
@@ -2441,7 +2681,8 @@
             "b": "oferă o imagine de condensare a timpului la momentul prezent prin simularea unor stări viitoare ale unor acțiuni și activități de marketing;",
             "c": "costuri ridicate și neproductive;",
             "d": "natura sistemului."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 242,
@@ -2451,7 +2692,8 @@
             "b": "costuri reduse și perioadă de timp scurtă;",
             "c": "diversitate de fenomene și procese de marketing;",
             "d": "convenționalitate și formalitate."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 243,
@@ -2461,7 +2703,8 @@
             "b": "tehnici de simulare analogică, numerică, hibridă;",
             "c": "tehnici de simulare continuă, discontinue, teleologică;",
             "d": "tehnici de simulare închise, deschise, mixte."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 244,
@@ -2471,7 +2714,8 @@
             "b": "vizualizare;",
             "c": "obținerea de informații despre sisteme complexe;",
             "d": "cyberspațiu."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 245,
@@ -2481,7 +2725,8 @@
             "b": "îmbinarea multicriterială;",
             "c": "interdisciplinaritate;",
             "d": "redarea vizuală a diferitelor decizii de marketing asupra activităților simulate."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 246,
@@ -2491,7 +2736,8 @@
             "b": "simulare euristică, tehnici de simulare fundamentate matematic, de limbaj;",
             "c": "simulare hibridă, convențională, numerică;",
             "d": "simulare numerică, virtuală, analogică."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 247,
@@ -2501,7 +2747,8 @@
             "b": "tehnici de simulare fundamentate matematic și euristică;",
             "c": "tehnici de simulare hibridă și numerică;",
             "d": "tehnicii de simulare virtuală și analogică."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 248,
@@ -2511,7 +2758,8 @@
             "b": "interval, criterii, activitate, scop;",
             "c": "sistem, element, conexiune, performanță, traiectorie;",
             "d": "impuls, avantaj, control, aversitate."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 249,
@@ -2521,7 +2769,8 @@
             "b": "meta-acțiuni, activități, optimizări;",
             "c": "elasticitate, mecanisme, instrumente;",
             "d": "modelul, operatorul simulării, date de intrare, date de ieșire, variabile și parametrii."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 250,
@@ -2531,7 +2780,8 @@
             "b": "parametrii perturbatori;",
             "c": "variabile distorsionate;",
             "d": "specifice."
-          }
+          },
+          "raspuns_corect": "a"
         }
       ]
     },
@@ -2546,7 +2796,8 @@
             "b": "ansamblul angajaților și potențialul lor profesional;",
             "c": "doar personalul de conducere;",
             "d": "capitalul financiar."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 252,
@@ -2556,7 +2807,8 @@
             "b": "investițiile materiale ale firmei;",
             "c": "cunoștințele, competențele și experiența angajaților;",
             "d": "structura organizatorică."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 253,
@@ -2566,7 +2818,8 @@
             "b": "pot genera valoare adăugată;",
             "c": "sunt pasive și neinfluențabile;",
             "d": "necesită dezvoltare continuă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 254,
@@ -2576,7 +2829,8 @@
             "b": "controlul strict al angajaților;",
             "c": "utilizarea eficientă a potențialului uman;",
             "d": "eliminarea conflictelor de muncă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 255,
@@ -2586,7 +2840,8 @@
             "b": "tehnică;",
             "c": "strategică a managementului;",
             "d": "juridică."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 256,
@@ -2596,7 +2851,8 @@
             "b": "corelarea politicilor de ru cu obiectivele organizației;",
             "c": "eliminarea planificării;",
             "d": "accent doar pe salarizare."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 257,
@@ -2606,7 +2862,8 @@
             "b": "accent pe control și disciplină;",
             "c": "dezvoltare profesională continuă;",
             "d": "management participativ."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 258,
@@ -2616,7 +2873,8 @@
             "b": "importanța factorului uman în performanță;",
             "c": "scăderea concurenței;",
             "d": "globalizarea pieței financiare."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 259,
@@ -2626,7 +2884,8 @@
             "b": "resurse pasive;",
             "c": "capital strategic;",
             "d": "forță de muncă necalificată."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 260,
@@ -2636,7 +2895,8 @@
             "b": "asigurarea necesarului de personal pe termen mediu și lung;",
             "c": "eliminarea fluctuației;",
             "d": "creșterea birocrației."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 261,
@@ -2646,7 +2906,8 @@
             "b": "obiectivele strategice ale organizației;",
             "c": "dorințele angajaților;",
             "d": "nivelul salariilor."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 262,
@@ -2656,7 +2917,8 @@
             "b": "costuri suplimentare;",
             "c": "stabilitate organizațională;",
             "d": "motivare automată."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 263,
@@ -2666,7 +2928,8 @@
             "b": "doar angajarea personaluluii;",
             "c": "eliminarea ierarhiilor;",
             "d": "creșterea salariilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 264,
@@ -2676,7 +2939,8 @@
             "b": "sarcini, responsabilități și competențe;",
             "c": "obiectivele firmei;",
             "d": "regulamente interne."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 265,
@@ -2686,7 +2950,8 @@
             "b": "Relațiile de autoritate și responsabilitate;",
             "c": "Doar nivelul de salarizare;",
             "d": "Cultura organizațională."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 266,
@@ -2696,7 +2961,8 @@
             "b": "procesul de atragere a candidaților;",
             "c": "evaluarea performanței;",
             "d": "integrarea în organizație."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 267,
@@ -2706,7 +2972,8 @@
             "b": "alegerea celui mai potrivit candidat;",
             "c": "reducerea costurilor;",
             "d": "motivarea angajaților."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 268,
@@ -2716,7 +2983,8 @@
             "b": "adaptarea noului angajat la organizație;",
             "c": "promovarea rapidă;",
             "d": "concedierea."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 269,
@@ -2726,7 +2994,8 @@
             "b": "reducerea personalului;",
             "c": "evaluarea anuală;",
             "d": "creșterea salariilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 270,
@@ -2736,7 +3005,8 @@
             "b": "obligatoriu;",
             "c": "pe termen lung;",
             "d": "administrat."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 271,
@@ -2746,7 +3016,8 @@
             "b": "Creșterea competitivității organizației;",
             "c": "Creșterea fluctuației;",
             "d": "Costuri fără beneficii."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 272,
@@ -2756,7 +3027,8 @@
             "b": "evoluția profesională a individului;",
             "c": "doar promovarea;",
             "d": "nivelul salarial."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 273,
@@ -2766,7 +3038,8 @@
             "b": "evaluare financiară;",
             "c": "control strict;",
             "d": "eliminarea mobilității."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 274,
@@ -2776,7 +3049,8 @@
             "b": "retenția angajaților;",
             "c": "scăderea performanței;",
             "d": "creșterea conflictelor."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 275,
@@ -2786,7 +3060,8 @@
             "b": "ansamblul factorilor care determină comportamentul;",
             "c": "doar recompensa financiară;",
             "d": "controlul managerial."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 276,
@@ -2796,7 +3071,8 @@
             "b": "bonusuri;",
             "c": "satisfacția muncii;",
             "d": "amenzi."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 277,
@@ -2806,7 +3082,8 @@
             "b": "creșterea implicării;",
             "c": "scăderea productivității;",
             "d": "inovație."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 278,
@@ -2816,7 +3093,8 @@
             "b": "cunoștințe, abilități și atitudini;",
             "c": "experiență financiară;",
             "d": "vechimea în muncă."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 279,
@@ -2826,7 +3104,8 @@
             "b": "alinierea competențelor la cerințele postului;",
             "c": "reducerea formării;",
             "d": "eliminarea evaluării."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 280,
@@ -2836,7 +3115,8 @@
             "b": "planificarea dezvoltării profesionale;",
             "c": "reducerea salariilor;",
             "d": "control administrativ."
-          }
+          },
+          "raspuns_corect": "b"
         }
       ]
     },
@@ -2851,7 +3131,8 @@
             "b": "totalitatea valorilor materiale și spirituale create de omenire și a instituțiilor necesare pentru comunicarea acestor valori;",
             "c": "poziționarea unei resurse la timpul potrivit, în locul potrivit, la un preț corect și având o calitate corespunzătoare;",
             "d": "schimbul de valori dintre un utilizator și o organizație."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 282,
@@ -2861,7 +3142,8 @@
             "b": "militar;",
             "c": "servicii de internet;",
             "d": "educațional."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 283,
@@ -2871,7 +3153,8 @@
             "b": "reducerea stocurilor cu 25 până la 60%;",
             "c": "îmbunătățirea respectării termenelor de livrare cu 16 până la 28%;",
             "d": "scăderea productivității cu 10 până la 16%."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 284,
@@ -2881,7 +3164,8 @@
             "b": "la costurile ridicate asociate schimbării unui partener pe lanțul de aprovizionare;",
             "c": "barierele ridicate la intrarea în lanțul de aprovizionare pentru noi furnizori;",
             "d": "posibilitatea efectuării unor activități de cercetare - dezvoltare."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 285,
@@ -2891,7 +3175,8 @@
             "b": "funcțiile managementului lanțului de aprovizionare sunt repartizate la un număr de agenți independenți;",
             "c": "fiecare agent poate colabora și valorifica competențele de specialitate ale altor agenți;",
             "d": "fiecare agent trebuie să fie în măsură să se adapteze unui număr mai mare de domenii."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 286,
@@ -2901,7 +3186,8 @@
             "b": "funcțiile managementului lanțului de aprovizionare sunt repartizate la un număr de agenți independenți;",
             "c": "fiecare agent poate coopera cu alți agenți pentru a identifica o soluție pentru o anumită problemă;",
             "d": "fake/nu există"
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 287,
@@ -2911,7 +3197,8 @@
             "b": "funcțiile managementului lanțului de aprovizionare sunt repartizate la un număr de agenți independenți;",
             "c": "fiecare agent poate coopera cu alți agenți pentru a identifica o soluție pentru o anumită problemă;",
             "d": "fiecare agent trebuie să fie în măsură să se adapteze unui număr mai mare de domenii."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 288,
@@ -2921,7 +3208,8 @@
             "b": "2010 – prezent;",
             "c": "1990 – 2000;",
             "d": "1950 – 1960."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 289,
@@ -2931,7 +3219,8 @@
             "b": "extinderea pe verticală a companiilor producătoare;",
             "c": "distribuitorii sunt interesați în aceeași măsură ca și producătorul în promovarea produselor;",
             "d": "apare conceptul de logistică integrată."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 290,
@@ -2941,7 +3230,8 @@
             "b": "transferul bunurilor de la producător la consumatorul final;",
             "c": "aprovizionarea companiei producătoare cu materiile prime necesare;",
             "d": "stocarea mărfurilor în cadrul depozitelor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 291,
@@ -2951,7 +3241,8 @@
             "b": "să acorde importanță atât tuturor elementelor logisticii în general, cât și intercondiționalității dintre ele;",
             "c": "depozitarea eficientă prin utilizarea la maxim a spațiului disponibil;",
             "d": "alegerea celui mai bun mijloc de transport."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 292,
@@ -2961,7 +3252,8 @@
             "b": "compararea cifrei de afaceri a companiei cu cea a principalilor competitori;c) gradul de utilizare a capacităților de transport;",
             "c": "nivelul stocurilor de siguranță realizate.",
             "d": "niciunul din cele de mai sus"
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 293,
@@ -2971,7 +3263,8 @@
             "b": "managementul serviciilor pentru clienți;",
             "c": "managementul cererii;",
             "d": "onorarea comenzilor."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 294,
@@ -2981,7 +3274,8 @@
             "b": "structura puterii și a conducerii;",
             "c": "structura riscurilor și a recompenselor;",
             "d": "cultura și atitudinea."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 295,
@@ -2991,7 +3285,8 @@
             "b": "doar transportul produselor de la furnizor la client;",
             "c": "stocarea materiilor prime în condiții de siguranță;",
             "d": "promovarea produselor pe piață."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 296,
@@ -3001,7 +3296,8 @@
             "b": "stocarea;",
             "c": "manipularea materialelor;",
             "d": "ambalarea."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 297,
@@ -3011,7 +3307,8 @@
             "b": "maximizarea nivelului de servire a clienților;",
             "c": "realizarea unui echilibru între costuri și nivelul de servire;",
             "d": "creșterea volumului vânzărilor."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 298,
@@ -3021,7 +3318,8 @@
             "b": "costurile de stocare;",
             "c": "costurile de procesare a comenzilor;",
             "d": "costurile de producție."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 299,
@@ -3031,7 +3329,8 @@
             "b": "timpul de ciclo al comenzii;",
             "c": "flexibilitatea sistemului;",
             "d": "calitatea livrării."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 300,
@@ -3041,7 +3340,8 @@
             "b": "logistica internă (producție);",
             "c": "logistica de ieșire (distribuție);",
             "d": "logistica inversă (retururi)."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 301,
@@ -3051,7 +3351,8 @@
             "b": "transportul materiilor prime;",
             "c": "recepția și depozitarea materialelor;",
             "d": "programarea producției."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 302,
@@ -3061,7 +3362,8 @@
             "b": "procesarea comenzilor clienților;",
             "c": "transportul produselor la clienți;",
             "d": "colectarea ambalajelor reutilizabile."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 303,
@@ -3071,7 +3373,8 @@
             "b": "ambalaje și paleți;",
             "c": "deșeuri și materiale reciclabile;",
             "d": "produse defecte trimise la reparat."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 304,
@@ -3081,7 +3384,8 @@
             "b": "creșterea unui cost logistic pentru a reduce un alt cost, astfel încât costul total să scadă;",
             "c": "reducerea calității serviciilor pentru a scădea prețul;",
             "d": "schimbul direct de mărfuri între doi parteneri."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 305,
@@ -3091,7 +3395,8 @@
             "b": "consolidare a transporturilor;",
             "c": "sortare și fracționare a loturilor;",
             "d": "asamblare finală a unor produse."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 306,
@@ -3101,7 +3406,8 @@
             "b": "depozit de tranzit;",
             "c": "depozit de păstrare (stocare);",
             "d": "depozit vamal."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 307,
@@ -3111,7 +3417,8 @@
             "b": "deservirea rapidă a clienților dintr-o anumită regiune;",
             "c": "transformarea sortimentului industrial în sortiment comercial;",
             "d": "păstrarea materiilor prime strategice."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 308,
@@ -3121,7 +3428,8 @@
             "b": "stocarea mărfurilor pe rafturi de mare înălțime;",
             "c": "ambalarea produselor în folie contractibilă;",
             "d": "transportul mărfurilor pe rute maritime."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 309,
@@ -3131,7 +3439,8 @@
             "b": "când trebuie lansată o nouă comandă;",
             "c": "unde trebuie amplasat depozitul;",
             "d": "ce tip de transport trebuie utilizat."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 310,
@@ -3141,7 +3450,8 @@
             "b": "întârzierilor în livrarea de către furnizori;",
             "c": "creșterii prețurilor pe piață;",
             "d": "modificărilor legislative."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 311,
@@ -3151,7 +3461,8 @@
             "b": "costurile de depozitare (chirie, utilități);",
             "c": "costurile cu asigurările și taxele;",
             "d": "costul riscului de depreciere sau învechire."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 312,
@@ -3161,7 +3472,8 @@
             "b": "costurile de comunicații și birotică;",
             "c": "costurile de transport aferente transportului mărfurilor comandate;",
             "d": "costurile de recepție calitativă și cantitativă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 313,
@@ -3171,7 +3483,8 @@
             "b": "maximizarea rotației stocurilor;",
             "c": "minimizarea prețului de achiziție;",
             "d": "egalizarea stocului inițial cu cel final."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 314,
@@ -3181,7 +3494,8 @@
             "b": "de câte ori stocul se reînnoiește într-o anumită perioadă de timp;",
             "c": "timpul necesar pentru încărcarea unui camion;",
             "d": "durata transportului de la furnizor la beneficiar."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 315,
@@ -3191,7 +3505,8 @@
             "b": "capacitate mare de transport pentru mărfuri grele și voluminoase;",
             "c": "viteză foarte mare de livrare;",
             "d": "costuri reduse pentru distanțe foarte scurte."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 316,
@@ -3201,7 +3516,8 @@
             "b": "dependență mare de condițiile meteorologice;",
             "c": "capacitate nelimitată de încărcare pe un singur vehicul;",
             "d": "investiții inițiale foarte mari în infrastructură din partea transportatorului."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 317,
@@ -3211,7 +3527,8 @@
             "b": "perisabile sau cu caracter de urgență;",
             "c": "grele și de volum mare (ex. minereuri);",
             "d": "periculoase sau inflamabile."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 318,
@@ -3221,7 +3538,8 @@
             "b": "transportul aceleiași mărfi cu mai multe camioane aparținând aceleiași firme;",
             "c": "transportul mărfurilor doar pe căi navigabile interioare;",
             "d": "utilizarea exclusivă a transportului feroviar."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 319,
@@ -3231,7 +3549,8 @@
             "b": "a reduce costurile cu personalul din depozit;",
             "c": "a proteja produsele împotriva degradării mecanice;",
             "d": "a standardiza echipamentele de depozitare și transport."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 320,
@@ -3241,7 +3560,96 @@
             "b": "optimizarea rutelor de transport și a spațiului din depozit;",
             "c": "automatizarea proceselor de facturare și lansare a comenzilor;",
             "d": "reducerea erorilor umane în manipularea datelor."
-          }
+          },
+          "raspuns_corect": "d"
+        },
+        {
+          "numar": 321,
+          "text": "Care dintre următoarele elemente nu reprezintă una din caracteristicile produsului, ce stau la baza planificării logisticii?",
+          "variante": {
+            "a": "dimensiunea produsului;",
+            "b": "regimul de temperatură;",
+            "c": "gradul de disponibilitate;",
+            "d": "valoarea bunurilor."
+          },
+          "raspuns_corect": "c"
+        },
+        {
+          "numar": 322,
+          "text": "Care dintre următoarele afirmații cu privire la segmentarea produselor nu este adevărată?",
+          "variante": {
+            "a": "în funcție de natura produselor, poate fi necesară utilizarea mai multor tipuri de canale de distribuție;",
+            "b": "toate categoriile de produse pot fi transportate în containere;",
+            "c": "există trei regimuri de temperatură pentru produse alimentare: congelate (-18--25°C), răcite (+2 - +8°C) și ambientale (temperatura de afară);",
+            "d": "o comandă întâmplătoare necesită un lanț de distribuție separat, pentru ca să fie luate toate măsurile de siguranță necesare."
+          },
+          "raspuns_corect": "b"
+        },
+        {
+          "numar": 323,
+          "text": "Care dintre următoarele afirmații cu privire la segmentarea produselor nu este adevărată?",
+          "variante": {
+            "a": "unele bunuri pot contamina alte bunuri (trebuie separate de alte bunuri și dacă au un miros special);",
+            "b": "unele bunuri, cum ar fi bancnotele de la bancă, sunt transportate în vehicule blindate, pentru a fi protejate de eventuale tentative de furt;",
+            "c": "bunurile cu preț scăzut sunt disponibile în multiple locații, pentru a fi cât mai aproape de consumator, pe când pentru cele cu preț ridicat se vor utiliza locații centralizate;",
+            "d": "în special produsele de îmbrăcăminte pot avea măsuri, culori, lungimea mânecelor ș.a. diferite astfel încât este ușor de aproximat câte produse ar trebui livrate într-un magazin pentru a nu crea stocuri pe o perioadă mare de timp."
+          },
+          "raspuns_corect": "d"
+        },
+        {
+          "numar": 324,
+          "text": "În cazul în care cererea este imprevizibilă, conform segmentării cererii și a ofertei, se caracterizează prin următorul element:",
+          "variante": {
+            "a": "dacă produce în exces, vor exista costuri generate de existența stocurilor, iar dacă oferta este sub nivelul cererii, comenzile nu vor putea fi onorate;",
+            "b": "ușurință în inventariere, cu pierderi limitate; logistica se bazează pe principiul „exact la timp\";",
+            "c": "canalul de distribuție utilizat trebuie să fie lung, pentru a oferi flexibilitate;",
+            "d": "oferta trebuie să fie fixă pentru a satisface comenzi spontane."
+          },
+          "raspuns_corect": "a"
+        },
+        {
+          "numar": 325,
+          "text": "Nu reprezintă unul dintre considerentele de creștere a cererii produselor unei companii:",
+          "variante": {
+            "a": "promovarea ofertei companiei;",
+            "b": "retragerea de pe piață a unui produs similar învechit;",
+            "c": "stabilirea unui nivel maxim al comenzii;",
+            "d": "posibilitatea cumpărării en-gros."
+          },
+          "raspuns_corect": "c"
+        },
+        {
+          "numar": 326,
+          "text": "Care dintre următoarele elemente nu reprezintă o activitate specifică logisticii internaționale?",
+          "variante": {
+            "a": "mediul de afaceri prezintă numeroase provocări, legate în special de cultură și limbaj;",
+            "b": "deciziile cu privire la transportul internațional trebuie să țină cont de distanțele de parcurs, categorii de mijloace de transport, documente de transport, timpi mari de tranzit;",
+            "c": "riscuri mici cu privire la siguranța mărfii;",
+            "d": "numărul organismelor implicate este foarte mare (bănci, companii de asigurări, transportatori navali, guverne, ș.a., pentru fiecare, compania având nevoie de documentație specifică)."
+          },
+          "raspuns_corect": "c"
+        },
+        {
+          "numar": 327,
+          "text": "Care dintre următoarele elemente nu reprezintă o activitate specifică logisticii internaționale?",
+          "variante": {
+            "a": "asigurările internaționale pot cuprinde capcane datorită unor exprimări ambigue și diferențelor de semnificație de la un limbaj la altul;",
+            "b": "stabilitate monetară;",
+            "c": "trecerea granițelor implică de multe ori control vamal;",
+            "d": "metode diferite de inventariere și risc de întârziere."
+          },
+          "raspuns_corect": "b"
+        },
+        {
+          "numar": 328,
+          "text": "Segmentarea pieței, în funcție de consumatori, nu cuprinde următoarea formă:",
+          "variante": {
+            "a": "segmentare geografică;",
+            "b": "segmentare demografică;",
+            "c": "segmentare în funcție de cifra de afaceri;",
+            "d": "segmentare comportamentală."
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 329,
@@ -3251,7 +3659,8 @@
             "b": "segmentarea populației pe diverse categorii în funcție de vârstă, sex, venit, religie ș.a.;",
             "c": "domenii de interes, activități, stil de viață;",
             "d": "frecvența de cumpărare a unui anumit produs de către consumatori și de gradul de loialitate față de marcă."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 330,
@@ -3261,7 +3670,8 @@
             "b": "varietatea produselor;",
             "c": "fluctuația monetară;",
             "d": "perioada de timp necesară pentru livrare."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 331,
@@ -3271,7 +3681,8 @@
             "b": "se poate răspunde în cel mai scurt timp posibil la orice comandă;",
             "c": "ajută în activitatea de servicii cu clienții (ex: înlocuirea rapidă a unor produse ș.a.);",
             "d": "permite anticiparea necesarului de materii prime."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 332,
@@ -3281,7 +3692,8 @@
             "b": "densitatea ambalării;",
             "c": "periodicitatea mutării produselor;",
             "d": "spațiul disponibil încărcării produselor."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 333,
@@ -3291,7 +3703,8 @@
             "b": "transportul;c) inventarierea;",
             "c": "activitatea de servicii cu clienții.",
             "d": "niciuna din cele de mai sus"
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 334,
@@ -3301,7 +3714,8 @@
             "b": "costurile variază în funcție de fluctuațiile activității;",
             "c": "apar, de obicei, o singură dată și sunt fixe;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 335,
@@ -3311,7 +3725,8 @@
             "b": "costurile operaționale cu logistica;",
             "c": "maximizarea permanentă a profitului companiei;",
             "d": "activele logistice."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 336,
@@ -3321,7 +3736,8 @@
             "b": "identificarea unor posibilități de grupare a produselor;",
             "c": "obținerea unor informații cu privire la așteptările consumatorilor, ce permit segmentarea acestora;",
             "d": "cunoașterea legislației în vigoare."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 337,
@@ -3331,7 +3747,8 @@
             "b": "disponibilitatea mijloacelor de transport;",
             "c": "legislația în vigoare;",
             "d": "impactul asupra mediului înconjurător."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 338,
@@ -3341,7 +3758,8 @@
             "b": "controlul producției;",
             "c": "stabilirea materiilor prime necesare;",
             "d": "determinarea costurilor cu salariile."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 339,
@@ -3351,7 +3769,8 @@
             "b": "activitatea de servicii cu clienții;",
             "c": "ambalarea;",
             "d": "procesarea comenzilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 340,
@@ -3361,7 +3780,8 @@
             "b": "respectarea unui orar;",
             "c": "costul echipamentelor;",
             "d": "cheltuieli de salarizare."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 341,
@@ -3371,7 +3791,8 @@
             "b": "inventarierea producției;",
             "c": "transport materii prime;",
             "d": "stabilirea locației pentru depozite."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 342,
@@ -3381,7 +3802,8 @@
             "b": "sistemul de livrări;",
             "c": "inventarierea producției;",
             "d": "supravegherea canalelor de distribuție."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 343,
@@ -3391,7 +3813,8 @@
             "b": "activitatea de cercetare a pieței;",
             "c": "procesarea comenzilor;",
             "d": "proceduri de control."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 344,
@@ -3401,7 +3824,8 @@
             "b": "o prioritate o reprezintă diminuarea la maxim a timpului de livrare;",
             "c": "principalele funcții ale logisticii (producție, vânzare și financiară), trebuie să fie corelate;",
             "d": "abordarea relației vânzător – cumpărător, având în vedere că aceștia au interese distincte."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 345,
@@ -3411,7 +3835,8 @@
             "b": "analiza competitorilor;",
             "c": "familiarizarea cu necesitățile consumatorilor;",
             "d": "îmbunătățirea abilităților de comunicare ale managerului."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 346,
@@ -3421,7 +3846,8 @@
             "b": "stabilirea de parteneriate;",
             "c": "îmbunătățirea abilităților de comunicare;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 347,
@@ -3431,7 +3857,8 @@
             "b": "configurează întregul sistem logistic în funcție de necesități;",
             "c": "sistem computerizat de monitorizare a activităților;",
             "d": "prezentarea problemelor, apărute în livrare, managerului general și implementarea deciziilor acestuia."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 348,
@@ -3441,7 +3868,8 @@
             "b": "verificarea referințelor agenției de recrutare (să fie o agenție care prezintă încredere și competență);",
             "c": "alcătuirea și înmânarea unei liste către agenția de recrutare cu privire la condițiile pe care trebuie să le îndeplinească un potențial candidat;",
             "d": "formularea unei cereri pentru agenție în vederea organizării unor cursuri finalizate cu obținerea unui certificat, pentru angajații care preiau comenzile."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 349,
@@ -3451,7 +3879,8 @@
             "b": "stabilirea unui nivel de salarizare pentru postul respectiv, după angajarea candidatului;",
             "c": "să se asigure de faptul că agenția va verifica starea de sănătate a potențialului candidat;",
             "d": "verificarea referințelor agenției de recrutare (să fie o agenție care prezintă încredere și competență)."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 350,
@@ -3461,7 +3890,8 @@
             "b": "ore suplimentare;",
             "c": "plata în funcție de rezultate;",
             "d": "beneficii marginale."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 351,
@@ -3471,7 +3901,8 @@
             "b": "sistemul cererii dependente și a cererii independente (engl. dependent and independent demand);",
             "c": "producția pe unități (engl. cellular manufacturing);",
             "d": "sistemul exact la timp (engl. just in time)."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 352,
@@ -3481,7 +3912,8 @@
             "b": "de a menține la un nivel cât mai redus posibil stocurile de resurse materiale din unitatea economică;",
             "c": "de clasificare a mărfurilor în vederea facilitării procesului de inventariere;",
             "d": "de a livra bunurile la locul potrivit."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 353,
@@ -3491,7 +3923,8 @@
             "b": "gestiunea cu cerere constantă la intervale de timp inegale;",
             "c": "gestiunea cu cerere variabilă și intervale de timp inegale;",
             "d": "gestiunea cu două depozite."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 354,
@@ -3501,7 +3934,8 @@
             "b": "necesarul de aprovizionat;",
             "c": "lotul pentru livrare;",
             "d": "parametrii de timp."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 355,
@@ -3511,7 +3945,8 @@
             "b": "pentru protejarea împotriva scăderii bruște a comenzilor;",
             "c": "cost scăzut de achiziție a materiilor prime;",
             "d": "pentru a ușura distribuția."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 356,
@@ -3521,7 +3956,8 @@
             "b": "construirea pe același grafic a curbelor cumulate de la începutul exercițiului a consumurilor și a intrărilor pentru fiecare articol;",
             "c": "existența unor fișe de stoc pentru fiecare articol, ce conțin numele articolului și descrierea sa, nivelul de comandă, cantitatea care se comandă, intrările și ieșirile în ordine cronologică, stocul curent, cantitatea deja comandată;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 357,
@@ -3531,7 +3967,8 @@
             "b": "determinarea consumurilor de materiale pentru perioada de analiză care poate fi, de exemplu, jumătate de an;",
             "c": "ordonarea resurselor materiale în funcție de valoarea acelor resurse care sunt mai des utilizate;",
             "d": "analiza și gruparea structurii stocurilor de resurse materiale din nomenclator pe cele trei zone sau grupe de importanță în funcție de criteriile alese."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 358,
@@ -3541,7 +3978,8 @@
             "b": "organizarea centralizată a proceselor de aprovizionare;",
             "c": "procesul de comandă-reaprovizionare se prelungește ca urmare a birocrației;",
             "d": "numărul scăzut de furnizori."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 359,
@@ -3551,7 +3989,8 @@
             "b": "dorite și necostisitoare (engl. desirable and inexpensive);",
             "c": "produse de rezervă (engl. common spares);",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 360,
@@ -3561,7 +4000,8 @@
             "b": "previziuni neadecvate realității cu privire la cerere;",
             "c": "activitatea de publicitate;",
             "d": "probleme în asigurarea calității produselor."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 361,
@@ -3571,7 +4011,8 @@
             "b": "totalitatea obiectelor obținute în urma unui proces de producție;",
             "c": "transferul bunurilor de la producător la consumatorul final;",
             "d": "bunuri de valoare ridicată destinate comercializării."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 362,
@@ -3581,7 +4022,8 @@
             "b": "armonizarea fluxului de resurse materiale, format din următoarele faze: achiziționarea, transportul, pregătirea pentru consum, utilizarea materialelor în procesul de producție de la prelucrare până la faza de produs finit, precum și livrarea acestuia către consumatorul final;",
             "c": "luarea de măsuri pentru a contracara modificările prețurilor și a calității la nivelul pieței;",
             "d": "asigurarea unei anumite calități pentru reuniunile materiale necesare proceselor de producție și chiar îmbunătățirea calității stocurilor, de exemplu prin procedee de uscare sau condiționare."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 363,
@@ -3591,7 +4033,8 @@
             "b": "aria geografică;",
             "c": "caracteristicile produselor comercializate;",
             "d": "cine deține proprietatea."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 364,
@@ -3601,7 +4044,8 @@
             "b": "facilita promovarea;",
             "c": "ușura calculul costurilor;",
             "d": "facilita transferul de bunuri de la producător la consumatorul final."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 365,
@@ -3611,7 +4055,8 @@
             "b": "capacitatea de stocare necesară;",
             "c": "nivele ale activității de servicii cu clienții;",
             "d": "activități specifice, cum ar fi amânarea producției."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 366,
@@ -3621,7 +4066,8 @@
             "b": "valoarea bunurilor;",
             "c": "tip de vehicule necesare;",
             "d": "sezonalitatea bunurilor."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 367,
@@ -3631,7 +4077,8 @@
             "b": "controlul în timp real a informațiilor, permițând identificarea și semnalarea imediată a dereglărilor din cadrul sistemului;",
             "c": "adaptarea la modificările care apar și care poate influența gestiunea resurselor materiale din unitatea economică;",
             "d": "monitorizarea în timp real al stocurilor de resurse materiale din unitatea economică."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 368,
@@ -3641,7 +4088,8 @@
             "b": "produsele trebuie finalizate la momentul planificat, nici mai devreme, nici mai târziu;",
             "c": "un furnizor trebuie să livreze exact cantitatea comandată și exact la momentul planificat;",
             "d": "niciun răspuns corect."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 369,
@@ -3651,7 +4099,8 @@
             "b": "armonizarea programului de producție prin formarea unor loturi și prin standardizarea componentelor;",
             "c": "disponibilitate scăzută a echipamentelor de pregătire a fabricației;",
             "d": "motivarea resursei umane."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 370,
@@ -3661,7 +4110,8 @@
             "b": "reducerea nivelului stocurilor;",
             "c": "reducerea costurilor asociate transportului intern al resurselor materiale;",
             "d": "creșterea standardelor de calitate asociate procesului de producție."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 371,
@@ -3671,7 +4121,8 @@
             "b": "rețeaua distribuitorului;",
             "c": "inflexibilitatea modalităților de transport;",
             "d": "riscul de pierdere sau deteriorare a produselor."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 372,
@@ -3681,7 +4132,8 @@
             "b": "feroviar;",
             "c": "aerian;",
             "d": "naval;"
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 373,
@@ -3691,7 +4143,8 @@
             "b": "deși este costisitor, arbitrajul este mai rapid în soluționare decât tribunalul;",
             "c": "procedurile sunt simplificate în cazul arbitrajului;",
             "d": "păstrarea confidențialității."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 374,
@@ -3701,7 +4154,8 @@
             "b": "medierea este indicată în dispute mici;",
             "c": "medierea caută ajungerea la un compromis, nu să impună o rezolvare;",
             "d": "medierea este mai puțin formală și are ca scop reluarea legăturilor de afaceri dintre parteneri."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 375,
@@ -3711,7 +4165,8 @@
             "b": "chitanțe poștale;",
             "c": "conosamentul;",
             "d": "certificat de depozitare."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 376,
@@ -3721,7 +4176,8 @@
             "b": "metoda „tel quel”;",
             "c": "clauza marfă sănătoasă la descărcare;",
             "d": "pe bază de descriere."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 377,
@@ -3731,7 +4187,8 @@
             "b": "specificarea bunurilor care fac obiectul reclamației;",
             "c": "precizarea categoriei de mijloc de transport utilizat;",
             "d": "cauzele reclamației (livrare incompletă, calitate necorespunzătoare, livrarea altui produs decât cel comandat ș.a.)."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 378,
@@ -3741,7 +4198,8 @@
             "b": "ambalarea bunurilor;",
             "c": "întocmirea facturii comerciale;",
             "d": "preluarea bunurilor, cheltuielilor și riscurilor până la destinație."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 379,
@@ -3751,7 +4209,8 @@
             "b": "efectuarea operațiunii de vămuire la export;",
             "c": "plata navlului;",
             "d": "suportă taxele și preia riscurile din momentul trecerii mărfurilor peste balustrada navei în port."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 380,
@@ -3761,7 +4220,8 @@
             "b": "valorificarea resurselor regenerabile;",
             "c": "minimizarea deșeurilor;",
             "d": "reciclarea materialelor."
-          }
+          },
+          "raspuns_corect": "a"
         }
       ]
     },
@@ -3776,7 +4236,8 @@
             "b": "comportamentul organizațiilor neguvernamentale;",
             "c": "comportamentul consumatorilor finali și comportamentul consumatorilor organizaționali;",
             "d": "comportamentul companiilor multinaționale."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 382,
@@ -3786,7 +4247,8 @@
             "b": "selectivă;",
             "c": "activă;",
             "d": "derivată din nevoie."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 383,
@@ -3796,7 +4258,8 @@
             "b": "prin introspecție;",
             "c": "prin copiere;",
             "d": "prin schimbarea atitudinii."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 384,
@@ -3806,7 +4269,8 @@
             "b": "modelul Pavlovian;",
             "c": "modelul Veblenian;",
             "d": "modelul Hobbesian."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 385,
@@ -3816,7 +4280,8 @@
             "b": "teoria atitudinilor;",
             "c": "teoria consumului ostentativ;",
             "d": "teoria convorbirii."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 386,
@@ -3826,7 +4291,8 @@
             "b": "studierea atitudinilor;",
             "c": "elemente biologice și culturale;",
             "d": "studierea intențiilor de cumpărare."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 387,
@@ -3836,7 +4302,8 @@
             "b": "subconștientul;",
             "c": "influența între persoane;",
             "d": "descoperitorul reflexelor condiționate."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 388,
@@ -3846,7 +4313,8 @@
             "b": "modelul freudian;",
             "c": "modelul pavlovian;",
             "d": "modelul hobbesian."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 389,
@@ -3856,7 +4324,8 @@
             "b": "frecvența consumului unui produs nou;",
             "c": "gradul de cunoaștere de către consumatori a mărcii noului produs;",
             "d": "cantitatea din produsul nou cumpărată de către consumatori;"
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 390,
@@ -3866,7 +4335,8 @@
             "b": "o metodă de măsurare a percepției calității serviciilor de către clienți bazată pe asociații libere între atributele unui vânzător;",
             "c": "o metodă de măsurare a percepției calității serviciilor de către clienți bazată pe focus grup;",
             "d": "o metodă de măsurare a calității serviciilor percepute de clienți de către organizație bazată pe observare și pe sondaj."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 391,
@@ -3876,7 +4346,8 @@
             "b": "mai mare;",
             "c": "inexistentă;",
             "d": "la fel."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 392,
@@ -3886,7 +4357,8 @@
             "b": "o nevoie personală;",
             "c": "nivelul previzionat al serviciului;",
             "d": "factori situaționali."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 393,
@@ -3896,7 +4368,8 @@
             "b": "cumpărături de rutină;",
             "c": "cumpărături de impuls;",
             "d": "cumpărături critice."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 394,
@@ -3906,7 +4379,8 @@
             "b": "cumpărături de rutină;",
             "c": "cumpărături de impuls;",
             "d": "cumpărături critice."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 395,
@@ -3916,7 +4390,8 @@
             "b": "nevoile;",
             "c": "atitudini;",
             "d": "deciziile."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 396,
@@ -3926,7 +4401,8 @@
             "b": "motivația este parte a unui motiv",
             "c": "mai multe motive determină o motivație",
             "d": "motivația reprezintă totalitatea motivelor și rezultanta însăși procesul motivării."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 397,
@@ -3936,7 +4412,8 @@
             "b": "atitudinea;",
             "c": "învățarea;",
             "d": "percepția."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 398,
@@ -3946,7 +4423,8 @@
             "b": "conștientizăm ceea ce am perceput;",
             "c": "percepem ceva fără să fim conștienți;",
             "d": "suntem păcăliți de situații neclare și iluzii optice."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 399,
@@ -3956,7 +4434,8 @@
             "b": "expunere, atenție, interpretare, memorie;",
             "c": "atenție, expunere, memorie, interpretare;",
             "d": "expunere, interpretare, atenție, memorie."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 400,
@@ -3966,7 +4445,8 @@
             "b": "învățarea care poate fi observată imediat în comportament;",
             "c": "învățarea care este fixată într-un timp îndelungat;",
             "d": "învățarea care durează doar o perioadă scurtă de timp."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 401,
@@ -3976,7 +4456,8 @@
             "b": "disonanță cognitivă;",
             "c": "consonanță;",
             "d": "cogniție."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 402,
@@ -3986,7 +4467,8 @@
             "b": "oamenii adoptă atitudini concordante cu valorile și cu imaginea lor despre ei înșiși;",
             "c": "oamenii au o înclinație spre coerență și ordine;",
             "d": "oamenii au tendința de a adopta atitudini pe care le percep ca fiind utile în atingerea unor scopuri."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 403,
@@ -3996,7 +4478,8 @@
             "b": "în realizarea segmentării demografice;",
             "c": "în eficientizarea activității de distribuție;",
             "d": "în stabilirea unei legături între imaginea de sine și produs."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 404,
@@ -4006,7 +4489,8 @@
             "b": "Sigmund Freud;",
             "c": "Carl Rogers;",
             "d": "Abraham Maslow."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 405,
@@ -4016,7 +4500,8 @@
             "b": "sinele, eul, supraeul;",
             "c": "conștientul, sinele, supraeul;",
             "d": "sinele, conștientul, inconștientul."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 406,
@@ -4026,7 +4511,8 @@
             "b": "nu în totalitate, sunt selectate în mod conștient, voluntar;",
             "c": "sunt în totalitate selectate în mod inconștient, involuntar;",
             "d": "sunt în totalitate selectate în mod conștient, involuntar."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 407,
@@ -4036,7 +4522,8 @@
             "b": "se pun în concordanță cu identitatea personală;",
             "c": "își formează trăsături ale personalității;",
             "d": "not se transmite nimic."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 408,
@@ -4046,7 +4533,8 @@
             "b": "valori, atitudini, interese, preferințe, și o serie de caracteristici demografice;",
             "c": "domiciliu, vecinătăți, venituri și alte caracteristici demografice;",
             "d": "vârstă, venit, domiciliu."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 409,
@@ -4056,7 +4544,8 @@
             "b": "locuitorii din cadrul aceleiași culturi sau subculturi tind să aibă același stil de viață;",
             "c": "locuitorii din cadrul aceleiași regiuni tind să aibă același stil de viață;",
             "d": "locuitorii din regiuni diferite tind să aibă același stil de viață."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 410,
@@ -4066,7 +4555,8 @@
             "b": "rămân constante pe tot parcursul vieții;",
             "c": "se schimbă pe parcursul vieții mai lent decât personalitatea;",
             "d": "se schimbă rapid pe parcursul vieții."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 411,
@@ -4076,7 +4566,8 @@
             "b": "au capacitate de influență asupra grupului mai importantă decât a celorlalți;",
             "c": "vin cu ideea de a cumpăra un certain produs;",
             "d": "not dețin o poziție privilegiată în cadrul grupului."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 412,
@@ -4086,7 +4577,8 @@
             "b": "incitatorul;",
             "c": "decidentul;",
             "d": "cumpărătorul."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 413,
@@ -4096,7 +4588,8 @@
             "b": "atitudinea consumatorului și factorii situaționali surpriză;",
             "c": "voința de a cumpăra și disonanța cognitivă;",
             "d": "retenția selectivă și puterea de cumpărare."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 414,
@@ -4106,7 +4599,8 @@
             "b": "mai rapide;",
             "c": "mai directe;",
             "d": "mai lente."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 415,
@@ -4116,7 +4610,8 @@
             "b": "căutarea de informații și identificarea alternativelor;",
             "c": "evaluarea mentală a variantelor considerate;",
             "d": "formularea intenției de cumpărare."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 416,
@@ -4126,7 +4621,8 @@
             "b": "intențiile de cumpărare;",
             "c": "preferințele de cumpărare;",
             "d": "obiceiurile de consum."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 417,
@@ -4136,7 +4632,8 @@
             "b": "motivația;",
             "c": "învățarea;",
             "d": "personalitatea."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 418,
@@ -4146,7 +4643,8 @@
             "b": "dimensiunea conativă a atitudinii;",
             "c": "dimensiunea afectivă a atitudinii;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 419,
@@ -4156,7 +4654,8 @@
             "b": "învățarea;",
             "c": "motivația;",
             "d": "percepția."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 420,
@@ -4166,7 +4665,8 @@
             "b": "este un comportament strict rațional, prin care consumatorul urmărește maximizarea utilității;",
             "c": "se bazează pe un consumator pasiv, un consumator care este obiectul manipulării mediului extern;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 421,
@@ -4176,7 +4676,8 @@
             "b": "dimensiunea cognitivă, afectivă și rațională;",
             "c": "dimensiunea afectivă, rațională și emoțională;",
             "d": "dimensiunea afectivă, emoțională și conative."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 422,
@@ -4186,7 +4687,8 @@
             "b": "cunoașterea sau ignorarea obiectului în cauză;",
             "c": "intenția fermă de a acționa sau de a se comporta într-un anumit mod față de obiectul considerat;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 423,
@@ -4196,7 +4698,8 @@
             "b": "scade;",
             "c": "rămâne la fel;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 424,
@@ -4206,7 +4709,8 @@
             "b": "decizia de cumpărare;",
             "c": "identificarea problemei de consum;",
             "d": "căutarea de informații."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 425,
@@ -4216,7 +4720,8 @@
             "b": "regula conjunctivă și regula disjunctivă;",
             "c": "regulii bazate pe un model compensator și reguli bazate pe un model necompensator;",
             "d": "regula lexicografică și regula disjunctivă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 426,
@@ -4226,7 +4731,8 @@
             "b": "un model obiectiv al cauzalității obiective, cauzalitate reprodusă psihic, acumulată în timp, transformată și transferată prin învățare în spațiul interior al consumatorului;",
             "c": "un model subiectiv al cauzalității obiective, cauzalitate reprodusă psihic, acumulată în timp, transformată și transferată prin atitudine în spațiul interior al consumatorului;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 427,
@@ -4236,7 +4742,8 @@
             "b": "sunt rezultatul subconștientului uman;",
             "c": "sunt expresia unor tensiuni de natură psihologică;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 428,
@@ -4246,7 +4753,8 @@
             "b": "doar formale;",
             "c": "doar informale;",
             "d": "niciuna din variantele de mai sus."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 429,
@@ -4256,7 +4764,8 @@
             "b": "grupul de referință;",
             "c": "grupul social;",
             "d": "familie."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 430,
@@ -4266,7 +4775,8 @@
             "b": "grupul social;",
             "c": "grupul de referință;",
             "d": "clasa socială."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 431,
@@ -4276,7 +4786,8 @@
             "b": "cognitiv;",
             "c": "conativ;",
             "d": "rațional."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 432,
@@ -4286,7 +4797,8 @@
             "b": "comunicației formale;",
             "c": "comunicației informale;",
             "d": "comunicației indirecte."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 433,
@@ -4296,7 +4808,8 @@
             "b": "decodificarea;",
             "c": "elementul perturbator;",
             "d": "feed-back-ul."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 434,
@@ -4306,7 +4819,8 @@
             "b": "decodificarea;",
             "c": "feedback-ul;",
             "d": "răspunsul."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 435,
@@ -4316,7 +4830,8 @@
             "b": "psihografic;",
             "c": "geografic;",
             "d": "demografic."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 436,
@@ -4326,7 +4841,8 @@
             "b": "prezentarea comparativă a unor produse sau servicii;",
             "c": "stimularea cererii potențiale pentru un produs;",
             "d": "cultivarea unei atitudini favorabile față de produs."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 437,
@@ -4336,7 +4852,8 @@
             "b": "numărului de pagini;",
             "c": "tirajului;",
             "d": "costurilor de realizare."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 438,
@@ -4346,7 +4863,8 @@
             "b": "stimularea cererii selective pentru un produs;",
             "c": "prelungirea efectului temporal al publicității;",
             "d": "caracteristicile evidente ale produsului."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 439,
@@ -4356,7 +4874,8 @@
             "b": "crearea unei imagini favorabile produsului;",
             "c": "informarea consumatorilor;",
             "d": "susținerea vânzărilor."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 440,
@@ -4366,7 +4885,8 @@
             "b": "creștere;",
             "c": "maturitate;",
             "d": "declin."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 441,
@@ -4376,7 +4896,8 @@
             "b": "intervenția hazardului este exclusă;",
             "c": "hazardul intervine în mod exclusiv;",
             "d": "accentul cade pe generarea unor efecte cantitative pe termen lung."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 442,
@@ -4386,7 +4907,8 @@
             "b": "creșterea notorietății produsului;",
             "c": "păstrarea fidelității consumatorilor;",
             "d": "susținerea vânzărilor produsului."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 443,
@@ -4396,7 +4918,8 @@
             "b": "creștere;",
             "c": "maturitate;",
             "d": "declin."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 444,
@@ -4406,7 +4929,8 @@
             "b": "comerciantul;",
             "c": "prescriptorul;",
             "d": "vânzătorul-consultant."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 445,
@@ -4416,7 +4940,8 @@
             "b": "ofertelor „produs în plus”;",
             "c": "primelor promoționale;",
             "d": "reducerilor temporare de preț."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 446,
@@ -4426,7 +4951,8 @@
             "b": "ofertă gratuită;",
             "c": "reducere imediată;",
             "d": "ofertă produs în plus."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 447,
@@ -4436,7 +4962,8 @@
             "b": "tehnica vânzarea grupată;",
             "c": "tehnica lotului cu primă;",
             "d": "tehnica lotului cu gratuitate."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 448,
@@ -4446,7 +4973,8 @@
             "b": "primă autoplătitoare;",
             "c": "primă directă;",
             "d": "cadou promoțional."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 449,
@@ -4456,7 +4984,8 @@
             "b": "este bine ca raioanele pe care clienții le vizitează mai rar să fie amplasate alăturat;",
             "c": "este bine ca implantarea raioanelor să se facă în funcție de sensul de circulație dominant;",
             "d": "este bine ca raioanele vizitate frecvent să fie amplasate primele în sensul de circulație în cadrul magazinului."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 450,
@@ -4466,7 +4995,8 @@
             "b": "marca de fabrică;",
             "c": "marca de producție;",
             "d": "marca de serviciu."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 451,
@@ -4476,7 +5006,8 @@
             "b": "distribuitor;",
             "c": "consumator;",
             "d": "exportator."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 452,
@@ -4486,7 +5017,8 @@
             "b": "sponsorul, mediile de comunicare și mesajul;",
             "c": "anunțătorul, ținta și evenimentul;",
             "d": "evenimentul, ținta și comunicația."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 453,
@@ -4496,7 +5028,8 @@
             "b": "abordării de marketing;",
             "c": "abordării tehnice;",
             "d": "abordării comerciale."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 454,
@@ -4506,7 +5039,8 @@
             "b": "creștere;",
             "c": "maturitate;",
             "d": "declin."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 455,
@@ -4516,7 +5050,8 @@
             "b": "marca gamă;",
             "c": "marca umbrelă;",
             "d": "marca garanție."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 456,
@@ -4526,7 +5061,8 @@
             "b": "emblema;",
             "c": "designul;",
             "d": "sigla."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 457,
@@ -4536,7 +5072,8 @@
             "b": "emblema;",
             "c": "designul;",
             "d": "sigla."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 458,
@@ -4546,7 +5083,8 @@
             "b": "afectiv;",
             "c": "conativ;",
             "d": "psihologic."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 459,
@@ -4556,7 +5094,8 @@
             "b": "afectiv;",
             "c": "conativ;",
             "d": "psihologic."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 460,
@@ -4566,7 +5105,8 @@
             "b": "afectiv;",
             "c": "conativ;",
             "d": "psihologic."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 461,
@@ -4576,7 +5116,8 @@
             "b": "creație;",
             "c": "trafic;",
             "d": "media."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 462,
@@ -4586,7 +5127,8 @@
             "b": "orientării comunicării;",
             "c": "poziționării psihologice;",
             "d": "reținerii selective."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 463,
@@ -4596,7 +5138,8 @@
             "b": "elementul perturbator;",
             "c": "feed-back-ul;",
             "d": "răspunsul."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 464,
@@ -4606,7 +5149,8 @@
             "b": "decodificarea;",
             "c": "elementul perturbator;",
             "d": "feed-back-ul."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 465,
@@ -4616,7 +5160,8 @@
             "b": "psihografic;",
             "c": "geografic;",
             "d": "socioeconomic."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 466,
@@ -4626,7 +5171,8 @@
             "b": "catalog de prestigiu;",
             "c": "catalog de lucru;",
             "d": "catalog excepțional."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 467,
@@ -4636,7 +5182,8 @@
             "b": "relațiilor publice;",
             "c": "promovării vânzărilor;",
             "d": "forțelor de vânzare."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 468,
@@ -4646,7 +5193,8 @@
             "b": "influențarea cererii selective pentru produsul promovat;",
             "c": "exploatarea resorturilor psihologice;",
             "d": "consolidarea imaginii de marcă."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 469,
@@ -4656,7 +5204,8 @@
             "b": "forțele de vânzare;",
             "c": "relațiile publice;",
             "d": "sponsorizarea."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 470,
@@ -4666,7 +5215,8 @@
             "b": "oferirea unui cadou promoțional;",
             "c": "organizarea unei loterii promoționale;",
             "d": "organizarea unei demonstrații promoționale."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 471,
@@ -4676,7 +5226,8 @@
             "b": "prezentare orizontală;",
             "c": "prezentare în „W”;",
             "d": "prezentare în fereastră."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 472,
@@ -4686,7 +5237,8 @@
             "b": "prescriptorii;",
             "c": "distribuitorii;",
             "d": "forța de vânzare."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 473,
@@ -4696,7 +5248,8 @@
             "b": "creștere a ciclului său de viață;",
             "c": "declin al ciclului său de viață;",
             "d": "relansare a ciclului său de viață."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 474,
@@ -4706,7 +5259,8 @@
             "b": "mărcii-umbrelă;",
             "c": "mărcii-gamă;",
             "d": "mărcii-garanție."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 475,
@@ -4716,7 +5270,8 @@
             "b": "comunicației de întreprindere;",
             "c": "comunicației de marcă;",
             "d": "comunicației instituționale."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 476,
@@ -4726,7 +5281,8 @@
             "b": "mărcii - sursă;",
             "c": "mărcii - umbrelă;",
             "d": "mărcii - linie."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 477,
@@ -4736,7 +5292,8 @@
             "b": "ofertelor de rambursare;",
             "c": "operațiunilor vizând încercarea gratuită a produselor;",
             "d": "reduceri temporare de prețuri."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 478,
@@ -4746,7 +5303,8 @@
             "b": "fidelizarea consumatorilor și creșterea cantităților cumpărate;",
             "c": "păstrarea clienților și creșterea cantităților consumate;",
             "d": "creșterea cantităților cumpărate și creșterea frecvenței de cumpărare."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 479,
@@ -4756,7 +5314,8 @@
             "b": "să împartă riscurile cu distribuitorul;",
             "c": "să emită un mesaj de natură promoțională;",
             "d": "să atenueze efectele sezonalității."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 480,
@@ -4766,7 +5325,8 @@
             "b": "analiza tranzacțională;",
             "c": "modelul freudian;",
             "d": "teoria motivațiilor."
-          }
+          },
+          "raspuns_corect": "a"
         }
       ]
     },
@@ -4781,7 +5341,8 @@
             "b": "culegerea și interpretarea sistematica a datelor referitoare la orice aspecte de marketing;",
             "c": "culegerea, înregistrarea și analiza sistematică a datelor referitoare la marketingul bunurilor și serviciilor;",
             "d": "specificarea, măsurarea și diseminarea informațiilor legate de marketingul bunurilor, serviciilor și euristicii."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 482,
@@ -4791,7 +5352,8 @@
             "b": "cercetări transversale, cercetări longitudinale;",
             "c": "cercetări exploratorii, cercetări concluzive;",
             "d": "cercetări cantitative, cercetări calitative."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 483,
@@ -4801,7 +5363,8 @@
             "b": "cercetări exploratorii, cercetări cauzale;",
             "c": "cercetări ad-hoc, cercetări bazate pe paneluri, cercetări descriptive;",
             "d": "cercetări primare, cercetări secundare."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 484,
@@ -4811,7 +5374,8 @@
             "b": "instrumental;",
             "c": "descriptiv;",
             "d": "predictiv."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 485,
@@ -4821,7 +5385,8 @@
             "b": "definirea vagă a nevoilor de informații, abordarea în general nestructurată, flexibilă;",
             "c": "importanță extrem de mică a creativității cercetătorului, caracterul nestructurat;",
             "d": "definirea precisă a nevoilor de informații."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 486,
@@ -4831,7 +5396,8 @@
             "b": "stabilirea scopului cercetării, definirea obiectivelor cercetării, elaborarea ipotezelor;",
             "c": "programarea în timp a cercetării, estimarea prealabilă a valorii informațiilor, stabilirea bugetului;",
             "d": "definirea problemei decizionale, selectarea modalității de culegere și sistematizării a informațiilor."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 487,
@@ -4841,7 +5407,8 @@
             "b": "elaborarea cererii de cercetare de marketing;",
             "c": "recoltarea informațiilor;",
             "d": "estimarea prealabilă a valorii informațiilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 488,
@@ -4851,7 +5418,8 @@
             "b": "elaborarea ipotezelor;",
             "c": "estimarea prealabilă a valorii informațiilor obținute din cercetare;",
             "d": "recoltarea informațiilor."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 489,
@@ -4861,7 +5429,8 @@
             "b": "mediul de reședință (urban/rural);",
             "c": "atitudinea respondenților față de un produs / serviciu;",
             "d": "preferințele respondenților pentru un produs."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 490,
@@ -4871,7 +5440,8 @@
             "b": "proces de construire a scalelor;",
             "c": "proces de măsurare a informațiilor;",
             "d": "instrument prin intermediul căruia se face măsurarea."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 491,
@@ -4881,7 +5451,8 @@
             "b": "1,4;",
             "c": "1,2;",
             "d": "2,4."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 492,
@@ -4891,7 +5462,8 @@
             "b": "2;",
             "c": "3;",
             "d": "4."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 493,
@@ -4901,7 +5473,8 @@
             "b": "B, C, A;",
             "c": "B, A, C;",
             "d": "A, C, B."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 494,
@@ -4911,7 +5484,8 @@
             "b": "ordinală",
             "c": "interval",
             "d": "proporțională"
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 495,
@@ -4921,7 +5495,8 @@
             "b": "0.125, diferențiala semantică;",
             "c": "1.325, diferențiala semantică;",
             "d": "0,176, scala lui Likert."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 496,
@@ -4931,7 +5506,8 @@
             "b": "evidențe statistice;",
             "c": "evidențe contabile;",
             "d": "angajații."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 497,
@@ -4941,7 +5517,8 @@
             "b": "nu permite clasificări;",
             "c": "nu are intervale egale;",
             "d": "nu are o origine unică."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 498,
@@ -4951,7 +5528,8 @@
             "b": "4,7, 8;",
             "c": "3,4,5;",
             "d": "5, 7,8."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 499,
@@ -4961,7 +5539,8 @@
             "b": "evaluării motivațiilor;",
             "c": "evaluării percepțiilor;",
             "d": "evaluării atitudinii."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 500,
@@ -4971,7 +5550,8 @@
             "b": "1041;",
             "c": "1036;",
             "d": "1073."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 501,
@@ -4981,7 +5561,8 @@
             "b": "interval;",
             "c": "proporționale;",
             "d": "parametrice."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 502,
@@ -4991,7 +5572,8 @@
             "b": "Scala comparativa;",
             "c": "Diferențială semantică;",
             "d": "Scala Likert."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 503,
@@ -5001,7 +5583,8 @@
             "b": "imposibilitatea de a identifica motivațiile și sentimentele profunde a respondenților;",
             "c": "utilizarea de eșantioane de dimensiuni mari, reprezentative, pentru populația țintă;",
             "d": "permite obținerea informațiilor „sensibile” de la respondenți, în cazul în care aspectele cercetate sunt stânjenitoare, fie au un impact negativ asupra propriului statut."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 504,
@@ -5011,7 +5594,8 @@
             "b": "subiectivitatea;",
             "c": "perioada mare de realizare;",
             "d": "cercetarea calitativă nu are niciun avantaj."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 505,
@@ -5021,7 +5605,8 @@
             "b": "de construcție;",
             "c": "de complementare;",
             "d": "de exprimare."
-          }
+          },
+          "raspuns_corect": "d"
         },
         {
           "numar": 506,
@@ -5031,7 +5616,8 @@
             "b": "metodelor intuitive de creativitate;",
             "c": "metodelor raționale de creativitate;",
             "d": "metodelor proiective."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 507,
@@ -5041,7 +5627,8 @@
             "b": "estimarea cererii totale pentru un anumit produs pe piața românească;",
             "c": "cunoașterea structurii demografice a populației Bucureștiului;",
             "d": "determinarea cotelor de piață ale producătorilor."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 508,
@@ -5051,7 +5638,8 @@
             "b": "tehnicile de construcție;",
             "c": "tehnicile de complementare;",
             "d": "tehnicile de exprimare."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
           "numar": 509,
@@ -5061,7 +5649,8 @@
             "b": "prezentarea tuturor cuvintelor din listă simultan;",
             "c": "chestionarea subiecților privind primul cuvânt care le trece prin minte, când aud un cuvânt din listă;",
             "d": "ignorarea răspunsurilor nonverbale."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 510,
@@ -5071,7 +5660,8 @@
             "b": "metodelor raționale de creativitate;",
             "c": "metodelor intuitive de creativitate;",
             "d": "metodelor proiective."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 511,
@@ -5081,7 +5671,8 @@
             "b": "testul Y;",
             "c": "testul apercepției tematice;",
             "d": "sinectică."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 512,
@@ -5091,7 +5682,8 @@
             "b": "aproximativ 20-30 minute;",
             "c": "aproximativ 2-3 ore;",
             "d": "aproximativ 60 minute."
-          }
+          },
+          "raspuns_corect": "c"
         },
         {
           "numar": 513,
@@ -5101,7 +5693,8 @@
             "b": "descriptiv sau cauzal;",
             "c": "explicativ;",
             "d": "cauzal."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 514,
@@ -5111,7 +5704,8 @@
             "b": "observări nedisimulate și observări disimulate;",
             "c": "observări directe și observări indirecte;",
             "d": "observări structurate și observări nestructurate."
-          }
+          },
+          "raspuns_corect": "a"
         },
         {
           "numar": 515,
@@ -5121,7 +5715,175 @@
             "b": "observări nedisimulate și observări disimulate;",
             "c": "observări directe și observări indirecte;",
             "d": "observări structurate și observări nestructurate."
-          }
+          },
+          "raspuns_corect": "b"
         },
         {
-          "numar":
+          "numar": 516,
+          "text": "După modalitatea de măsurare se pot distinge următoarele tipuri de observări:",
+          "variante": {
+            "a": "observări umane și observări mecanice;",
+            "b": "observări nedisimulate și observări disimulate;",
+            "c": "observări directe și observări indirecte;",
+            "d": "observări structurate și observări nestructurate."
+          },
+          "raspuns_corect": "c"
+        },
+        {
+          "numar": 517,
+          "text": "Psihogalvanometru reprezintă:",
+          "variante": {
+            "a": "un instrument ce înregistrează reacția respondenților la vizualizarea anumitor stimuli;",
+            "b": "un instrument ce măsoară gradul de dilatare a pupilei individului;",
+            "c": "un instrument ce măsoară reacția galvanică a pielii, ca urmare a expunerii la un anumit stimul;",
+            "d": "un tip de cercetare."
+          },
+          "raspuns_corect": "c"
+        },
+        {
+          "numar": 518,
+          "text": "Printre limitele observării regăsim:",
+          "variante": {
+            "a": "eroarea de reamintire;",
+            "b": "existența erorilor sistematice datorate operatorului de interviu;",
+            "c": "eroarea datorată modului incorect de a formula întrebările;",
+            "d": "imposibilitatea de a observa procesele de ordin cognitiv precum atitudinile, motivațiile și preferințele oamenilor."
+          },
+          "raspuns_corect": "d"
+        },
+        {
+          "numar": 519,
+          "text": "În cazul unei observări de tipul „clientul misterios”, prima etapă a cercetării o reprezintă:",
+          "variante": {
+            "a": "identificarea clientului misterios;",
+            "b": "construirea programului;",
+            "c": "stabilirea scopului și a obiectivelor;",
+            "d": "culegerea datelor."
+          },
+          "raspuns_corect": "c"
+        },
+        {
+          "numar": 520,
+          "text": "În general pentru măsurarea frecvențelor de trafic se utilizează instrumentele:",
+          "variante": {
+            "a": "contoarele de trafic;",
+            "b": "camerelor video;",
+            "c": "analizator perceptive;",
+            "d": "scannerele."
+          },
+          "raspuns_corect": "b"
+        },
+        {
+          "numar": 521,
+          "text": "Instrumentul cu ajutorul căruia se măsoară gradul de dilatare a pupilei individului în prezența acțiunii diverșilor stimuli se numește:",
+          "variante": {
+            "a": "psihogalvanometru;",
+            "b": "pupilometru;",
+            "c": "ochiometru;",
+            "d": "viziometru."
+          },
+          "raspuns_corect": "b"
+        },
+        {
+          "numar": 522,
+          "text": "Observarea de tipul „clientul misterios” este o cercetare de tipul:",
+          "variante": {
+            "a": "observare personală;",
+            "b": "observare bazată pe echipamente;",
+            "c": "observare on-line;",
+            "d": "toate cele de mai sus."
+          },
+          "raspuns_corect": "b"
+        },
+        {
+          "numar": 523,
+          "text": "În funcție de gradul de cunoaștere a scopului cercetării de către respondent, sondajul se poate clasifica în:",
+          "variante": {
+            "a": "nedisimulat și disimulat;",
+            "b": "transversale și sondaje;",
+            "c": "sondaje clasice; sondaje asistate pe calculator; sondaje online;",
+            "d": "transversale și personale."
+          },
+          "raspuns_corect": "a"
+        },
+        {
+          "numar": 524,
+          "text": "În funcție de criteriul temporal se disting sondaje:",
+          "variante": {
+            "a": "nedisimulat și disimulat;",
+            "b": "transversale și sondaje;",
+            "c": "sondaje clasice; sondaje asistate pe calculator; sondaje online;",
+            "d": "transversale și personale."
+          },
+          "raspuns_corect": "b"
+        },
+        {
+          "numar": 525,
+          "text": "Printre caracteristicile sondajului poștal, se regăsesc:",
+          "variante": {
+            "a": "absența asistenței din partea operatorului;",
+            "b": "posibilitatea clarificării și detalierii de către operator;",
+            "c": "absența erorilor datorate identității persoanei care răspunde;",
+            "d": "rata de răspuns mare."
+          },
+          "raspuns_corect": "a"
+        },
+        {
+          "numar": 526,
+          "text": "Printre avantajele oferite de sondajele clasice telefonice regăsim:",
+          "variante": {
+            "a": "durata foarte scurtă de obținere a informațiilor;",
+            "b": "subiectul poate răspunde în „ritmul” lui la întrebări;",
+            "c": "uneori chestionarului nu i se acordă nicio atenție și este aruncat;",
+            "d": "cu instrucțiuni adecvate pot fi completate chestionare."
+          },
+          "raspuns_corect": "a"
+        },
+        {
+          "numar": 527,
+          "text": "Printre avantajele sondajului regăsim:",
+          "variante": {
+            "a": "flexibilitatea comunicării verbale și scrise cu respondenții;",
+            "b": "obținerea informațiilor „sensibile” de la respondenți;",
+            "c": "utilizează instrumente calitative;",
+            "d": "nu are avantaje."
+          },
+          "raspuns_corect": "a"
+        },
+        {
+          "numar": 528,
+          "text": "Printre avantajele utilizării panelurilor regăsim:",
+          "variante": {
+            "a": "cunoașterea evoluției în timp a comportamentului consumatorului;",
+            "b": "schimbarea în permanență a membrilor eșantionului;",
+            "c": "caracterul anonim al cercetării;",
+            "d": "durata foarte scurtă de obținere a informațiilor."
+          },
+          "raspuns_corect": "a"
+        },
+        {
+          "numar": 529,
+          "text": "Sondaje bazate pe paneluri fac parte din categoria sondajelor:",
+          "variante": {
+            "a": "personale;",
+            "b": "asistate de calculator;",
+            "c": "speciale;",
+            "d": "publice."
+          },
+          "raspuns_corect": "c"
+        },
+        {
+          "numar": 530,
+          "text": "Într-un chestionar atunci când fluxul întrebărilor merge de la întrebări introductive spre întrebări specifice cercetării se spune că acesta are la bază:",
+          "variante": {
+            "a": "principiul „pâlniei”;",
+            "b": "principiul sarcinii respondentului;",
+            "c": "principiul secționării chestionarului;",
+            "d": "principiul „pâlniei răsturnate”."
+          },
+          "raspuns_corect": "a"
+        }
+      ]
+    }
+  ]
+}
