@@ -129,9 +129,14 @@ export function QuizView({
               ? "border-accent bg-accent/15 ring-1 ring-accent"
               : "border-border bg-surface hover:border-border hover:bg-elevated";
           } else {
-            if (isCorrect) boxClass += "border-success/70 bg-success/10";
-            else if (isWrongPick) boxClass += "border-danger/70 bg-danger/10";
-            else boxClass += "border-border/60 bg-surface/50 opacity-70";
+            if (isCorrect)
+              boxClass +=
+                "cursor-default border-emerald-500/90 bg-emerald-500/35 ring-2 ring-emerald-400/50";
+            else if (isWrongPick)
+              boxClass += "cursor-default border-danger/70 bg-danger/10";
+            else
+              boxClass +=
+                "cursor-default border-border/50 bg-surface/40 opacity-30";
           }
 
           return (
@@ -145,7 +150,15 @@ export function QuizView({
                 onChange={() => !verified && setSelected(key)}
                 className="sr-only"
               />
-              <span className="font-semibold uppercase text-accent">{key}.</span>{" "}
+              <span
+                className={`font-semibold uppercase ${
+                  verified && key === q.raspuns_corect
+                    ? "text-emerald-200"
+                    : "text-accent"
+                }`}
+              >
+                {key}.
+              </span>{" "}
               <span className="text-sm leading-relaxed text-white/90">{label}</span>
             </label>
           );
