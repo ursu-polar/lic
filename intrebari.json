@@ -3250,316 +3250,316 @@
           "variante": {
             "a": "numărul ședințelor informative ale managementului de vârf cu angajații;",
             "b": "compararea cifrei de afaceri a companiei cu cea a principalilor competitori;c) gradul de utilizare a capacităților de transport;",
-            "c": "procentul echipamentelor asociate gestuinii resurselor materiale care sunt integrate cu ajutorul calculatoarelor in sistemul informational al unitatii economice",
-            "d": "numarul de decizii care pot fi luate de angajati fara a fi necesar controlul supervizorilor."
+            "c": "nivelul stocurilor de siguranță realizate.",
+            "d": "niciunul din cele de mai sus"
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 293,
-          "text": "Gestiunea integrată a lanțului de aprovizionare, din punct de vedere al proceselor cheie, presupune:",
+          "text": "Costul materialelor, față de costul total al produselor, conform rapoartelor financiare ale întreprinderilor productive, reprezintă:",
           "variante": {
-            "a": "managementul relațiilor cu clienții;",
-            "b": "managementul serviciilor pentru clienți;",
-            "c": "managementul cererii;",
-            "d": "onorarea comenzilor."
+            "a": "20%;",
+            "b": "5%;",
+            "c": "60%;",
+            "d": "90%."
           },
           "raspuns_corect": "c"
         },
         {
           "numar": 294,
-          "text": "Gestiunea integrată a lanțului de aprovizionare, din punct de vedere al componentelor de management, presupune:",
+          "text": "Rata de recuperare a investițiilor (ROI) este dependentă de:",
           "variante": {
-            "a": "metode de management;",
-            "b": "structura puterii și a conducerii;",
-            "c": "structura riscurilor și a recompenselor;",
-            "d": "cultura și atitudinea."
+            "a": "modalitatea de gestiune a resurselor materiale;",
+            "b": "calitatea materiilor prime;",
+            "c": "utilizarea transportului aerian;",
+            "d": "numărul de produse returnate de către clienți."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 295,
-          "text": "Un sistem logistic se poate defini ca fiind un ansamblu de activități interdependente, care asigură:",
+          "text": "Se estimează faptul că reducerea costurilor resurselor materiale cu 10% permite o creștere a profitului cu:",
           "variante": {
-            "a": "fluxul eficient al mărfurilor și informațiilor de la locul de producție la locul de consum;",
-            "b": "doar transportul produselor de la furnizor la client;",
-            "c": "stocarea materiilor prime în condiții de siguranță;",
-            "d": "promovarea produselor pe piață."
+            "a": "5%;",
+            "b": "50%;",
+            "c": "10%;",
+            "d": "80%."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 296,
-          "text": "Elementele unui sistem logistic includ:",
+          "text": "Costul comenzilor se referă la:",
           "variante": {
-            "a": "transportul;",
-            "b": "stocarea;",
-            "c": "manipularea materialelor;",
-            "d": "ambalarea."
+            "a": "costul determinat în funcție de prețul de achiziție și de cantitatea achiziționată;",
+            "b": "costurile asociate lansării și derulării comenzilor;",
+            "c": "costul determinat de stocarea resurselor materiale;",
+            "d": "costuri de oportunitate datorate lipsurilor de resurse materiale."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 297,
-          "text": "Obiectivul principal al unui sistem logistic este:",
+          "text": "Printre avantajele oferite de o gestiune integrată a resurselor materiale nu se numără:",
           "variante": {
-            "a": "minimarea costurilor totale;",
-            "b": "maximizarea nivelului de servire a clienților;",
-            "c": "realizarea unui echilibru între costuri și nivelul de servire;",
-            "d": "creșterea volumului vânzărilor."
+            "a": "o mai bună evidență a resurselor materiale, ca urmare a faptului că există o singură entitate organizatorică centrală care ține evidența acestor resurse materiale;",
+            "b": "există o mare posibilitate de previziune în cadrul gestiunii producției;",
+            "c": "creșterea performanței, ca urmare a reducerii timpului între comanda materialelor și primirea lor;",
+            "d": "o mai bună adaptare la sistemele electronice de gestiune a materialelor, ca urmare a existenței unității centrale responsabile cu colectarea datelor referitoare la materiale."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 298,
-          "text": "Costurile totale ale unui sistem logistic cuprind:",
+          "text": "Planificarea materialelor necesare, ca și tip de sistem managerial, se referă la:",
           "variante": {
-            "a": "costurile de transport;",
-            "b": "costurile de stocare;",
-            "c": "costurile de procesare a comenzilor;",
-            "d": "costurile de producție."
+            "a": "calculul costurilor pentru fiecare tip de produs în parte, fără utilizarea unui cost estimativ pentru un grup de produse;",
+            "b": "un sistem computerizat de inventariere, care oferă informații de mare acuratețe despre necesarul de materiale al companiei, oferind suport activităților de depozitare și transport;",
+            "c": "eliminarea costurilor inutile, care pot determina ca prețul final al produsului să crească, producția de bunuri fiind adaptată cererii consumatorilor;",
+            "d": "niciun răspuns corect."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 299,
-          "text": "Nivelul de servire a clienților în logistică se referă la:",
+          "text": "Una dintre activitățile cheie ale logisticii o reprezintă:",
           "variante": {
-            "a": "disponibilitatea produselor;",
-            "b": "timpul de ciclo al comenzii;",
-            "c": "flexibilitatea sistemului;",
-            "d": "calitatea livrării."
+            "a": "ambalarea;",
+            "b": "depozitarea;",
+            "c": "transportul;",
+            "d": "achiziționarea de materii prime."
           },
           "raspuns_corect": "c"
         },
         {
           "numar": 300,
-          "text": "Componentele cheie ale managementului logistic sunt:",
+          "text": "Ambalarea primară se caracterizează prin:",
           "variante": {
-            "a": "logistica de intrare (aprovizionare);",
-            "b": "logistica internă (producție);",
-            "c": "logistica de ieșire (distribuție);",
-            "d": "logistica inversă (retururi)."
+            "a": "ceea ce văd consumatorii când achiziționează produsul și are mai mult un scop estetic;",
+            "b": "gruparea bunurilor într-o unitate, de obicei o cutie subțire de carton sau o folie transparentă;",
+            "c": "toate activitățile necesare pentru ca produsul să ajungă în siguranță la consumator;",
+            "d": "niciun răspuns corect."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 301,
-          "text": "Logistica de intrare include activități legate de:",
+          "text": "Nu reprezintă una dintre componentele analizei mediului extern al companiei:",
           "variante": {
-            "a": "relațiile cu furnizorii;",
-            "b": "transportul materiilor prime;",
-            "c": "recepția și depozitarea materialelor;",
-            "d": "programarea producției."
+            "a": "auditul general al influențelor de mediu;",
+            "b": "natura mediului de afaceri;",
+            "c": "apariția unui nou „P” specific afacerilor internaționale;",
+            "d": "niciun răspuns corect."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 302,
-          "text": "Logistica de ieșire se ocupă de:",
+          "text": "Dintre elementele componente ale auditului general al influențelor de mediu nu fac parte:",
           "variante": {
-            "a": "stocarea produselor finite;",
-            "b": "procesarea comenzilor clienților;",
-            "c": "transportul produselor la clienți;",
-            "d": "colectarea ambalajelor reutilizabile."
+            "a": "factorii politici și legali;",
+            "b": "factorii economici;",
+            "c": "factorii tehnologici;",
+            "d": "interconectarea departamentelor de logistică din cadrul companiei."
           },
           "raspuns_corect": "d"
         },
         {
           "numar": 303,
-          "text": "Logistica inversă ghidează fluxul de:",
+          "text": "Nu reprezintă unul dintre factorii economici ce participă la auditul general al influențelor de mediu, următorul element:",
           "variante": {
-            "a": "produse returnate de clienți;",
-            "b": "ambalaje și paleți;",
-            "c": "deșeuri și materiale reciclabile;",
-            "d": "produse defecte trimise la reparat."
+            "a": "nivelul investițiilor;",
+            "b": "nivelul educațional;",
+            "c": "prognoze pentru evoluția P.I.B.;",
+            "d": "rata inflației."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 304,
-          "text": "Conceptul de „Trade-off” în logistică presupune:",
+          "text": "Dinamica mediului de afaceri se referă la:",
           "variante": {
-            "a": "sacrificarea unui avantaj logistic pentru a obține un beneficiu mai mare în altă zonă;",
-            "b": "creșterea unui cost logistic pentru a reduce un alt cost, astfel încât costul total să scadă;",
-            "c": "reducerea calității serviciilor pentru a scădea prețul;",
-            "d": "schimbul direct de mărfuri între doi parteneri."
+            "a": "rata și frecvența schimbărilor de pe piață;",
+            "b": "diversitatea influențelor de mediu, cantitatea de cunoștințe necesare pentru a face față acestor schimbări, presupunându-se că factorii de pe piață sunt interconectați;",
+            "c": "cooperarea între participanții la sistemul de logistică al unei companii;",
+            "d": "gestionarea situațiilor de conflict între producători și distribuitori."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 305,
-          "text": "Depozitarea în cadrul sistemului logistic îndeplinește funcții de:",
+          "text": "Care dintre următoarele tipuri de mediu de afaceri este caracterizat printr-un număr mare de elemente externe relativ diferite, ce se schimbă rapid și imprevizibil?",
           "variante": {
-            "a": "păstrare și conservare a mărfurilor;",
-            "b": "consolidare a transporturilor;",
-            "c": "sortare și fracționare a loturilor;",
-            "d": "asamblare finală a unor produse."
+            "a": "mediu de afaceri cu grad redus de incertitudine;",
+            "b": "mediu de afaceri cu grad scăzut - moderat de incertitudine;",
+            "c": "mediu de afaceri cu grad moderat - ridicat de incertitudine;",
+            "d": "mediu de afaceri cu grad ridicat de incertitudine."
           },
           "raspuns_corect": "d"
         },
         {
           "numar": 306,
-          "text": "Tipul de depozit utilizat pentru stocarea pe termen lung a mărfurilor se numește:",
+          "text": "Care dintre următoarele elemente reprezintă un nou P specific mediului de afaceri?",
           "variante": {
-            "a": "depozit de distribuție;",
-            "b": "depozit de tranzit;",
-            "c": "depozit de păstrare (stocare);",
-            "d": "depozit vamal."
+            "a": "produsul;",
+            "b": "parteneriatele;",
+            "c": "prețul;",
+            "d": "promovarea."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 307,
-          "text": "Un depozit de distribuție are ca rol principal:",
+          "text": "Dintre preocupările companiilor în domeniul producției și aprovizionării nu se numără:",
           "variante": {
-            "a": "stocarea pe termen lung;",
-            "b": "deservirea rapidă a clienților dintr-o anumită regiune;",
-            "c": "transformarea sortimentului industrial în sortiment comercial;",
-            "d": "păstrarea materiilor prime strategice."
+            "a": "acces la cele mai noi tehnologii apărute pe piață;",
+            "b": "fabrici specializate în crearea anumitor produse;",
+            "c": "utilizarea unor furnizori locali;",
+            "d": "apropierea de consumatorul final."
           },
           "raspuns_corect": "c"
         },
         {
           "numar": 308,
-          "text": "Cross-docking-ul este o tehnică logistică ce presupune:",
+          "text": "Dintre provocările actuale ale logisticii nu face parte următorul element:",
           "variante": {
-            "a": "transferul mărfurilor direct din vehiculul de sosire în cel de plecare, fără stocare intermediară;",
-            "b": "stocarea mărfurilor pe rafturi de mare înălțime;",
-            "c": "ambalarea produselor în folie contractibilă;",
-            "d": "transportul mărfurilor pe rute maritime."
+            "a": "creșterea bruscă a ciclului de viață al produsului;",
+            "b": "posibilitatea efectuării unui inventar în orice moment;",
+            "c": "stocuri cât mai mici, deoarece poate scădea cererea pentru produsul respectiv;",
+            "d": "producția trebuie să se adreseze și unor consumatori de peste granițele țării de origine a mărfurilor."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 309,
-          "text": "Managementul stocurilor urmărește să determine:",
+          "text": "Care dintre următoarele afirmații nu reprezintă una dintre tendințele cu privire la comportamentul consumatorilor?",
           "variante": {
-            "a": "ce cantitate de produse trebuie comandată;",
-            "b": "când trebuie lansată o nouă comandă;",
-            "c": "unde trebuie amplasat depozitul;",
-            "d": "ce tip de transport trebuie utilizat."
+            "a": "nu returnează produsele în cazul unei nemulțumiri cu privire la calitatea acestora;",
+            "b": "cresc achizițiile on-line;",
+            "c": "se trece de la sistemul clasic de livrare în cantități mari și de la utilizarea unor vehicule de capacitate mare, la livrări de mici dimensiuni;",
+            "d": "pentru a atrage consumatorii este important să se asigure de către companii un serviciu post-vânzare care să întărească imaginea mărcii respective."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 310,
-          "text": "Stocul de siguranță este constituit pentru a proteja organizația împotriva:",
+          "text": "Care dintre următoarele afirmații nu este adevărată?",
           "variante": {
-            "a": "incertitudinii cererii clienților;",
-            "b": "întârzierilor în livrarea de către furnizori;",
-            "c": "creșterii prețurilor pe piață;",
-            "d": "modificărilor legislative."
+            "a": "principalul competitor reprezintă centrul preocupărilor oricărei companii;",
+            "b": "în prezent există tendința de a achiziționa produse on-line, chiar și din alte țări, creându-se o imagine de disponibilitate permanentă a produselor;",
+            "c": "pentru orice companie este important să se asigure un serviciu post-vânzare care să întărească imaginea mărcii respective, chiar și în situațiile delicate în care clienții nu sunt mulțumiți de un anumit produs și trebuie să existe sisteme de colectare a informațiilor referitoare la așteptările consumatorilor cu privire la un anumit produs;",
+            "d": "după anii '90, managerii de logistică au început să ia în considerare transporturile navale (a căror viteză de deplasare a crescut în ultimii ani), precum și transportul aerian, care a devenit mai accesibil; în prezent un furnizor poate fi penalizat dacă nu livrează marfa în timpul promis."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 311,
-          "text": "Costurile de menținere a stocurilor includ:",
+          "text": "Utilizarea oportunităților oferite de mediul extern pentru depășirea propriilor puncte slabe, reprezintă o strategie:",
           "variante": {
-            "a": "costul capitalului imobilizat;",
-            "b": "costurile de depozitare (chirie, utilități);",
-            "c": "costurile cu asigurările și taxele;",
-            "d": "costul riscului de depreciere sau învechire."
+            "a": "agresivă;",
+            "b": "de diversificare;",
+            "c": "de reorientare;",
+            "d": "defensivă."
           },
           "raspuns_corect": "c"
         },
         {
           "numar": 312,
-          "text": "Costurile de lansare a unei comenzi cuprind:",
+          "text": "Dintre erorile tipice în cadrul logisticii nu face parte:",
           "variante": {
-            "a": "cheltuielile cu personalul de achiziții;",
-            "b": "costurile de comunicații și birotică;",
-            "c": "costurile de transport aferente transportului mărfurilor comandate;",
-            "d": "costurile de recepție calitativă și cantitativă."
+            "a": "notificarea greșită cu privire la disponibilitatea produsului;",
+            "b": "preluarea incorectă a cerințelor specificate în comanda inițială;",
+            "c": "îmbunătățiri aduse produsului;",
+            "d": "livrarea la o adresă incorectă."
           },
           "raspuns_corect": "c"
         },
         {
           "numar": 313,
-          "text": "Modelul cantității economice de comandă (EOQ) determină mărimea optimă a comenzii prin:",
+          "text": "Conturarea procesului de logistică, ca și componentă a strategiei de logistică, se referă la:",
           "variante": {
-            "a": "minimizarea sumei dintre costurile de lansare și cele de menținere a stocurilor;",
-            "b": "maximizarea rotației stocurilor;",
-            "c": "minimizarea prețului de achiziție;",
-            "d": "egalizarea stocului inițial cu cel final."
+            "a": "faptul că toate comenzile trebuie onorate la timp, indiferent de distanțele parcurse (de exemplu există și situația trecerii granițelor altor state);",
+            "b": "operațiunile necesare transferului fizic de bunuri de la locul de producție până la consumatorul final (inventar, numărul de depozite, mijloace de transport utilizate ș.a.);",
+            "c": "totalitatea informațiilor vitale desfășurării operațiunilor logistice și anume planificarea tuturor tipurilor de resurse necesare logisticii;",
+            "d": "optimizarea operațiunilor de transport, precum și la alegerea unor manageri competenți în vederea luării celor mai bune decizii; de asemenea, aceștia trebuie să posede nu doar cunoștințe de specialitate, ci și să fie pregătiți să lucreze într-un mediu multicultural."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 314,
-          "text": "Indicatorul „Viteza de rotație a stocurilor” exprimă:",
+          "text": "Conturarea rețelelor logistice, ca și componentă a strategiei de logistică, se referă la:",
           "variante": {
-            "a": "numărul de zile în care stocul mediu asigură desfacerea;",
-            "b": "de câte ori stocul se reînnoiește într-o anumită perioadă de timp;",
-            "c": "timpul necesar pentru încărcarea unui camion;",
-            "d": "durata transportului de la furnizor la beneficiar."
+            "a": "faptul că toate comenzile trebuie onorate la timp, indiferent de distanțele parcurse (de exemplu există și situația trecerii granițelor altor state);",
+            "b": "operațiunile necesare transferului fizic de bunuri de la locul de producție până la consumatorul final (inventar, numărul de depozite, mijloace de transport utilizate ș.a.);",
+            "c": "totalitatea informațiilor vitale desfășurării operațiunilor logistice și anume planificarea tuturor tipurilor de resurse necesare logisticii;",
+            "d": "optimizarea operațiunilor de transport, precum și la alegerea unor manageri competenți în vederea luării celor mai bune decizii; de asemenea, aceștia trebuie să posede nu doar cunoștințe de specialitate, ci și să fie pregătiți să lucreze într-un mediu multicultural."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 315,
-          "text": "Transportul pe calea ferată prezintă următorul avantaj principal:",
+          "text": "Conturarea sistemului informațional al logisticii, ca și componentă a strategiei de logistică, se referă la:",
           "variante": {
-            "a": "flexibilitate maximă „de la ușă la ușă”;",
-            "b": "capacitate mare de transport pentru mărfuri grele și voluminoase;",
-            "c": "viteză foarte mare de livrare;",
-            "d": "costuri reduse pentru distanțe foarte scurte."
+            "a": "faptul că toate comenzile trebuie onorate la timp, indiferent de distanțele parcurse (de exemplu există și situația trecerii granițelor altor state);",
+            "b": "operațiunile necesare transferului fizic de bunuri de la locul de producție până la consumatorul final (inventar, numărul de depozite, mijloace de transport utilizate ș.a.);",
+            "c": "totalitatea informațiilor vitale desfășurării operațiunilor logistice și anume planificarea tuturor tipurilor de resurse necesare logisticii;",
+            "d": "optimizarea operațiunilor de transport, precum și la alegerea unor manageri competenți în vederea luării celor mai bune decizii; de asemenea, aceștia trebuie să posede nu doar cunoștințe de specialitate, ci și să fie pregătiți să lucreze într-un mediu multicultural."
           },
           "raspuns_corect": "c"
         },
         {
           "numar": 316,
-          "text": "Transportul rutier se caracterizează prin:",
+          "text": "Structura organizațională a logisticii, ca și componentă a strategiei de logistică, se referă la:",
           "variante": {
-            "a": "flexibilitate ridicată și accesibilitate directă la punctele de încărcare/descărcare;",
-            "b": "dependență mare de condițiile meteorologice;",
-            "c": "capacitate nelimitată de încărcare pe un singur vehicul;",
-            "d": "investiții inițiale foarte mari în infrastructură din partea transportatorului."
+            "a": "faptul că toate comenzile trebuie onorate la timp, indiferent de distanțele parcurse (de exemplu există și situația trecerii granițelor altor state);",
+            "b": "operațiunile necesare transferului fizic de bunuri de la locul de producție până la consumatorul final (inventar, numărul de depozite, mijloace de transport utilizate ș.a.);",
+            "c": "totalitatea informațiilor vitale desfășurării operațiunilor logistice și anume planificarea tuturor tipurilor de resurse necesare logisticii;",
+            "d": "optimizarea operațiunilor de transport, precum și la alegerea unor manageri competenți în vederea luării celor mai bune decizii; de asemenea, aceștia trebuie să posede nu doar cunoștințe de specialitate, ci și să fie pregătiți să lucreze într-un mediu multicultural."
           },
           "raspuns_corect": "d"
         },
         {
           "numar": 317,
-          "text": "Transportul aerian este recomandat pentru mărfuri:",
+          "text": "Etapa de lansare, ca și ciclu de viață al produselor are următorul impact asupra logisticii:",
           "variante": {
-            "a": "cu valoare specifică mare și volum redus;",
-            "b": "perisabile sau cu caracter de urgență;",
-            "c": "grele și de volum mare (ex. minereuri);",
-            "d": "periculoase sau inflamabile."
+            "a": "presupune o cerere în creștere și de aceea este necesară crearea unor stocuri pentru a răspunde imediat eventualelor comenzi;",
+            "b": "cererea devine predictibilă, iar sistemul logistic este eficient;",
+            "c": "apar produse concurente și începe o competiție în special în domeniul serviciilor cu clienții, o logistică eficientă devenind vitală în această etapă;",
+            "d": "logistica trebuie să asigure un minim de produse în condiții de eficiență a activității."
           },
           "raspuns_corect": "a"
         },
         {
           "numar": 318,
-          "text": "Transportul multimodal (intermodal) presupune:",
+          "text": "Etapa de creștere, ca și ciclu de viață al produselor are următorul impact asupra logisticii:",
           "variante": {
-            "a": "utilizarea a cel puțin două moduri diferite de transport, sub acoperirea unui singur contract;",
-            "b": "transportul aceleiași mărfi cu mai multe camioane aparținând aceleiași firme;",
-            "c": "transportul mărfurilor doar pe căi navigabile interioare;",
-            "d": "utilizarea exclusivă a transportului feroviar."
+            "a": "presupune o cerere în creștere și de aceea este necesară crearea unor stocuri pentru a răspunde imediat eventualelor comenzi;",
+            "b": "cererea devine predictibilă, iar sistemul logistic este eficient;",
+            "c": "apar produse concurente și începe o competiție în special în domeniul serviciilor cu clienții, o logistică eficientă devenind vitală în această etapă;",
+            "d": "logistica trebuie să asigure un minim de produse în condiții de eficiență a activității."
           },
           "raspuns_corect": "b"
         },
         {
           "numar": 319,
-          "text": "Unitatea de încărcare în logistică (ex. paletul, containerul) are rolul de:",
+          "text": "Etapa de maturitate, ca și ciclu de viață al produselor are următorul impact asupra logisticii:",
           "variante": {
-            "a": "a grupa mai multe produse individuale pentru a facilita manipularea și transportul;",
-            "b": "a reduce costurile cu personalul din depozit;",
-            "c": "a proteja produsele împotriva degradării mecanice;",
-            "d": "a standardiza echipamentele de depozitare și transport."
+            "a": "presupune o cerere în creștere și de aceea este necesară crearea unor stocuri pentru a răspunde imediat eventualelor comenzi;",
+            "b": "cererea devine predictibilă, iar sistemul logistic este eficient;",
+            "c": "apar produse concurente și începe o competiție în special în domeniul serviciilor cu clienții, o logistică eficientă devenind vitală în această etapă;",
+            "d": "logistica trebuie să asigure un minim de produse în condiții de eficiență a activității."
           },
           "raspuns_corect": "c"
         },
         {
           "numar": 320,
-          "text": "Sistemele informatice utilizate în managementul logistic (de tip WMS, TMS, ERP) asigură:",
+          "text": "Etapa de declin, ca și ciclu de viață al produselor are următorul impact asupra logisticii:",
           "variante": {
-            "a": "vizibilitatea fluxurilor de mărfuri în timp real;",
-            "b": "optimizarea rutelor de transport și a spațiului din depozit;",
-            "c": "automatizarea proceselor de facturare și lansare a comenzilor;",
-            "d": "reducerea erorilor umane în manipularea datelor."
+            "a": "presupune o cerere în creștere și de aceea este necesară crearea unor stocuri pentru a răspunde imediat eventualelor comenzi;",
+            "b": "cererea devine predictibilă, iar sistemul logistic este eficient;",
+            "c": "apar produse concurente și începe o competiție în special în domeniul serviciilor cu clienții, o logistică eficientă devenind vitală în această etapă;",
+            "d": "logistica trebuie să asigure un minim de produse în condiții de eficiență a activității."
           },
           "raspuns_corect": "d"
         },
