@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import type { Capitol } from "@/lib/types";
 
 type Props = {
@@ -109,6 +110,15 @@ export function HomeMenu({
         >
           Statistici globale (toate întrebările)
         </button>
+      </div>
+
+      <div className="flex justify-center pt-2">
+        <Link
+          href="/about"
+          className="rounded-full border border-border bg-transparent px-6 py-2.5 text-sm font-medium text-muted transition hover:border-muted hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+        >
+          About
+        </Link>
       </div>
     </div>
   );
