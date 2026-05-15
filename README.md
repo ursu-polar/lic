@@ -26,11 +26,16 @@ npm start
 
 1. Împinge repo-ul pe GitHub/GitLab/Bitbucket.
 2. În [Vercel](https://vercel.com): **Add New Project** → importă repo-ul.
-3. **Root Directory**: lasă rădăcina proiectului (folderul cu `package.json`).
-4. **Build Command**: `npm run build` (implicit).
-5. **Output**: implicit pentru Next.js (`.next`).
+3. **Root Directory**: folderul care conține `package.json` (ex. `lic` dacă repo-ul e părintele monorepo-ului).
+4. **Framework Preset**: **Next.js** (Vercel îl detectează de obicei; proiectul include `vercel.json` cu `"framework": "nextjs"`).
+5. **Build Command**: `npm run build` (implicit).
+6. **Output Directory**: lasă **gol** (nu pune `public` și nu pune `out` — Next.js pe Vercel folosește `.next` automat).
 
 Nu sunt necesare variabile de mediu.
+
+### Eroare: „No Output Directory named public”
+
+Apare dacă în **Project Settings → General → Build & Development Settings** ai setat **Output Directory** la `public`. Șterge valoarea (câmp gol), salvează și redeploy. Aplicația Next.js nu publică build-ul în `public`; acel folder e doar pentru fișiere statice (favicon etc.).
 
 ## Actualizare întrebări
 
