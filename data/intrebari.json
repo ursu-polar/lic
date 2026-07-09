@@ -1054,7 +1054,7 @@
             "a": "costuri;",
             "b": "mediul demografic;",
             "c": "preferințele clienților;",
-            "d": "d) localizare."
+            "d": "localizare."
           },
           "raspuns_corect": "a"
         },
@@ -2486,9 +2486,9 @@
           "text": "Aplicarea marketingului în domeniul agroalimentar are în vedere anumite particularități ale producției agricole. Dintre acestea, cele mai importante sunt:",
           "variante": {
             "a": "sezonalitatea, perisabilitatea, dispersia geografică a producției agricole;",
-            "b": "sezonalitatea, perisabilitatea, caracterul elastic al ofertei de produse agricole;c) variabilitatea cantitativă, sezonalitatea, caracterul elastic al ofertei de produse agricole;",
-            "c": "variabilitatea calitativă, sezonalitatea, caracterul elastic al ofertei de produse agricole.",
-            "d": "niciuna din variantele de mai sus"
+            "b": "sezonalitatea, perisabilitatea, caracterul elastic al ofertei de produse agricole;",
+            "c": "variabilitatea cantitativă, sezonalitatea, caracterul elastic al ofertei de produse agricole;",
+            "d": "variabilitatea calitativă, sezonalitatea, caracterul elastic al ofertei de produse agricole."
           },
           "raspuns_corect": "a"
         },
@@ -2634,9 +2634,9 @@
           "text": "În cadrul modelului de simulare, într-un proces economic nu pot fi incluse:",
           "variante": {
             "a": "o parte dintre variabile;",
-            "b": "trei dintre variabile;c) toate variabilele care interacționează;",
-            "c": "variabilele programate.",
-            "d": "niciun răspuns din cele de mai sus"
+            "b": "trei dintre variabile;",
+            "c": "toate variabilele care interacționează;",
+            "d": "variabilele programate."
           },
           "raspuns_corect": "c"
         },
@@ -3249,9 +3249,9 @@
           "text": "Dintre principalii indicatori care pot fi valorificați în vederea îmbunătățirii sistemului informațional asociat gestiunii integrate a resurselor materiale nu face parte următorul element:",
           "variante": {
             "a": "numărul ședințelor informative ale managementului de vârf cu angajații;",
-            "b": "compararea cifrei de afaceri a companiei cu cea a principalilor competitori;c) gradul de utilizare a capacităților de transport;",
-            "c": "nivelul stocurilor de siguranță realizate.",
-            "d": "niciunul din cele de mai sus"
+            "b": "compararea cifrei de afaceri a companiei cu cea a principalilor competitori;",
+            "c": "procentul echipamentelor asociate gestiunii resurselor materiale care sunt integrate  cu ajutorul calculatoarelor in sistemul informational al unitatii economice",
+            "d": "numarul de decizii care pot fi luate  de angajati fara a fi necesar controlul supervizorilor"
           },
           "raspuns_corect": "b"
         },
@@ -3700,9 +3700,9 @@
           "text": "Dintre componentele logisticii, cea mai mare contribuție la cheltuielile totale o are:",
           "variante": {
             "a": "depozitarea;",
-            "b": "transportul;c) inventarierea;",
-            "c": "activitatea de servicii cu clienții.",
-            "d": "niciuna din cele de mai sus"
+            "b": "transportul;",
+            "c": "inventarierea;",
+            "d": "activitatea de servicii cu clienții."
           },
           "raspuns_corect": "b"
         },
