@@ -107,7 +107,7 @@ export function QuizView({
         {q.capitol}
       </p>
       <h1 className="mt-3 text-lg font-semibold leading-snug text-white sm:text-xl">
-        {q.text}
+        <span className="text-accent">{q.numar}.</span> {q.text}
       </h1>
 
       <div
