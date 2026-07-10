@@ -57,9 +57,9 @@ export function HomeMenu({
             onClick={onTest50}
             className="rounded-xl border border-border bg-elevated px-5 py-3.5 text-left font-medium text-white transition hover:border-accent hover:bg-surface focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
           >
-            Generează test 50
+            Generează test 45
             <span className="mt-1 block text-sm font-normal text-muted">
-              50 întrebări aleatoare
+              45 întrebări aleatoare
             </span>
           </button>
           <button

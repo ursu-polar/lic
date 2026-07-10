@@ -160,7 +160,7 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
           <h1 className="text-2xl font-semibold text-white">Statistici globale</h1>
           <p className="mt-1 text-sm text-muted">
             Răspunsuri înregistrate la Verifică, grupate pe capitole. Istoric pentru testele
-            de 50 de întrebări.
+            de 45 de întrebări.
           </p>
         </div>
         <button
@@ -172,17 +172,17 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
         </button>
       </div>
 
-      {/* Teste 50 */}
+      {/* Teste 45 */}
       <section className="mt-10">
-        <h2 className="text-lg font-semibold text-white">Teste „50 de întrebări”</h2>
+        <h2 className="text-lg font-semibold text-white">Teste „45 de întrebări”</h2>
         <p className="mt-1 text-sm text-muted">
           După fiecare test finalizat, se salvează componența pe capitole (câte întrebări au
-          intrat în acel set de 50).
+          intrat în acel set de 45).
         </p>
 
         {test50Sessions.length === 0 ? (
           <p className="mt-4 rounded-xl border border-dashed border-border bg-surface/50 p-6 text-center text-sm text-muted">
-            Încă nu ai finalizat niciun test 50. Folosește „Generează test 50” din meniu.
+            Încă nu ai finalizat niciun test 45. Folosește „Generează test 45” din meniu.
           </p>
         ) : (
           <>

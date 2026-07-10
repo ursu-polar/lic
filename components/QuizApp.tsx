@@ -53,7 +53,7 @@ export function QuizApp() {
       ...q,
       capitol: c.nume,
     }));
-    startSession(c.nume, enriched, "chapter");
+    startSession(c.nume, shuffle(enriched), "chapter");
   }
 
   function handleRandom() {
@@ -62,8 +62,8 @@ export function QuizApp() {
   }
 
   function handleTest50() {
-    const sample = sampleWithoutReplacement(getAllEnriched(), 50);
-    startSession("Test 50 — întrebări aleatoare", sample, "test50");
+    const sample = sampleWithoutReplacement(getAllEnriched(), 45);
+    startSession("Test 45 — întrebări aleatoare", sample, "test50");
   }
 
   function handleWrongOnly() {
