@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { QuestionSearch } from "@/components/QuestionSearch";
 import type { Capitol } from "@/lib/types";
 
 type Props = {
@@ -33,6 +34,8 @@ export function HomeMenu({
           (localStorage).
         </p>
       </header>
+
+      <QuestionSearch />
 
       <section className="flex flex-col gap-4">
         <h2 className="text-sm font-medium uppercase tracking-wider text-muted">
