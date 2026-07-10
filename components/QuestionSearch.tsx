@@ -2,10 +2,44 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import { getAllEnriched } from "@/lib/data";
-import { searchQuestions } from "@/lib/search";
+import {
+  getHighlightSegments,
+  getSearchWords,
+  searchQuestions,
+} from "@/lib/search";
 import type { EnrichedQuestion, VariantaKey } from "@/lib/types";
 
 const VARIANTE: VariantaKey[] = ["a", "b", "c", "d"];
+
+function HighlightedText({
+  text,
+  words,
+}: {
+  text: string;
+  words: string[];
+}) {
+  const segments = useMemo(
+    () => getHighlightSegments(text, words),
+    [text, words]
+  );
+
+  return (
+    <>
+      {segments.map((seg, i) =>
+        seg.highlight ? (
+          <mark
+            key={i}
+            className="rounded-sm bg-yellow-200/90 text-black"
+          >
+            {seg.text}
+          </mark>
+        ) : (
+          <span key={i}>{seg.text}</span>
+        )
+      )}
+    </>
+  );
+}
 
 export function QuestionSearch() {
   const allQuestions = useMemo(() => getAllEnriched(), []);
@@ -77,6 +111,7 @@ export function QuestionSearch() {
   }
 
   const hasSearchState = query.trim() !== "" || result !== null || notFound;
+  const searchWords = useMemo(() => getSearchWords(query), [query]);
 
   return (
     <section className="flex flex-col gap-4">
@@ -137,7 +172,9 @@ export function QuestionSearch() {
                     <span className="shrink-0 font-medium text-accent">
                       {q.numar}.
                     </span>
-                    <span className="line-clamp-2">{q.text}</span>
+                    <span className="line-clamp-2">
+                      <HighlightedText text={q.text} words={searchWords} />
+                    </span>
                   </span>
                 </button>
               </li>

@@ -10,6 +10,61 @@ export function normalizeForSearch(text: string): string {
     .replace(/[țţ]/g, "t");
 }
 
+export type HighlightSegment = { text: string; highlight: boolean };
+
+/** Normalized query words for highlighting (empty for numeric-only queries). */
+export function getSearchWords(query: string): string[] {
+  const trimmed = query.trim();
+  if (!trimmed || /^\d+$/.test(trimmed)) return [];
+  return normalizeForSearch(trimmed).split(/\s+/).filter(Boolean);
+}
+
+/** Split text into segments, marking chars that match any query word. */
+export function getHighlightSegments(
+  text: string,
+  words: string[]
+): HighlightSegment[] {
+  if (words.length === 0) return [{ text, highlight: false }];
+
+  const normalized = normalizeForSearch(text);
+  const ranges: Array<[number, number]> = [];
+
+  for (const word of words) {
+    let start = 0;
+    while (start <= normalized.length - word.length) {
+      const idx = normalized.indexOf(word, start);
+      if (idx === -1) break;
+      ranges.push([idx, idx + word.length]);
+      start = idx + word.length;
+    }
+  }
+
+  if (ranges.length === 0) return [{ text, highlight: false }];
+
+  ranges.sort((a, b) => a[0] - b[0]);
+  const merged: Array<[number, number]> = [];
+  for (const [s, e] of ranges) {
+    const last = merged[merged.length - 1];
+    if (last && s <= last[1]) {
+      last[1] = Math.max(last[1], e);
+    } else {
+      merged.push([s, e]);
+    }
+  }
+
+  const segments: HighlightSegment[] = [];
+  let pos = 0;
+  for (const [s, e] of merged) {
+    if (pos < s) segments.push({ text: text.slice(pos, s), highlight: false });
+    segments.push({ text: text.slice(s, e), highlight: true });
+    pos = e;
+  }
+  if (pos < text.length) {
+    segments.push({ text: text.slice(pos), highlight: false });
+  }
+  return segments;
+}
+
 type IndexedQuestion = EnrichedQuestion & { normalizedText: string };
 
 let cachedIndex: IndexedQuestion[] | null = null;

@@ -1,12 +1,13 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import type {
   EnrichedQuestion,
   QuizMode,
   SessionResult,
   VariantaKey,
 } from "@/lib/types";
+import type { SessionProgress } from "@/lib/storage";
 import { recordVerifiedAnswer } from "@/lib/storage";
 
 const VARIANTE: VariantaKey[] = ["a", "b", "c", "d"];
@@ -15,6 +16,8 @@ type Props = {
   title: string;
   questions: EnrichedQuestion[];
   quizMode: QuizMode;
+  initialProgress?: SessionProgress;
+  onSaveProgress: (progress: SessionProgress) => void;
   onExit: () => void;
   onComplete: (results: SessionResult[]) => void;
   onStatsUpdate: () => void;
@@ -24,14 +27,27 @@ export function QuizView({
   title,
   questions,
   quizMode,
+  initialProgress,
+  onSaveProgress,
   onExit,
   onComplete,
   onStatsUpdate,
 }: Props) {
-  const [index, setIndex] = useState(0);
-  const [selected, setSelected] = useState<VariantaKey | null>(null);
-  const [verified, setVerified] = useState(false);
-  const resultsRef = useRef<SessionResult[]>([]);
+  const [index, setIndex] = useState(initialProgress?.index ?? 0);
+  const [selected, setSelected] = useState<VariantaKey | null>(
+    initialProgress?.selected ?? null
+  );
+  const [verified, setVerified] = useState(initialProgress?.verified ?? false);
+  const resultsRef = useRef<SessionResult[]>(initialProgress?.results ?? []);
+
+  useEffect(() => {
+    onSaveProgress({
+      index,
+      results: resultsRef.current,
+      selected,
+      verified,
+    });
+  }, [index, selected, verified, onSaveProgress]);
 
   const q = questions[index];
   const total = questions.length;
@@ -73,6 +89,16 @@ export function QuizView({
     onStatsUpdate();
   }
 
+  function handleExit() {
+    onSaveProgress({
+      index,
+      results: resultsRef.current,
+      selected,
+      verified,
+    });
+    onExit();
+  }
+
   function handleNextOrFinish() {
     if (!isLast) {
       setIndex((i) => i + 1);
@@ -88,7 +114,7 @@ export function QuizView({
       <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
         <button
           type="button"
-          onClick={onExit}
+          onClick={handleExit}
           className="text-sm text-muted transition hover:text-white"
         >
           ← Renunță

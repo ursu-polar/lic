@@ -1,26 +1,34 @@
 "use client";
 
 import Link from "next/link";
+import { HomeProgressSummary } from "@/components/HomeProgressSummary";
 import { QuestionSearch } from "@/components/QuestionSearch";
+import type { PausedSession } from "@/lib/storage";
 import type { Capitol } from "@/lib/types";
 
 type Props = {
   capitole: Capitol[];
   wrongCount: number;
+  statsVersion: number;
+  pausedSession: PausedSession | null;
   onChapter: (capitol: Capitol) => void;
   onRandom: () => void;
   onTest50: () => void;
   onWrongOnly: () => void;
+  onResumeSession: () => void;
   onGlobalStats: () => void;
 };
 
 export function HomeMenu({
   capitole,
   wrongCount,
+  statsVersion,
+  pausedSession,
   onChapter,
   onRandom,
   onTest50,
   onWrongOnly,
+  onResumeSession,
   onGlobalStats,
 }: Props) {
   return (
@@ -41,6 +49,23 @@ export function HomeMenu({
         <h2 className="text-sm font-medium uppercase tracking-wider text-muted">
           Moduri rapide
         </h2>
+        {pausedSession && (
+          <button
+            type="button"
+            onClick={onResumeSession}
+            className="rounded-xl border border-accent bg-accent/10 px-5 py-3.5 text-left font-medium text-white transition hover:bg-accent/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+          >
+            Continuă sesiunea
+            <span className="mt-1 block text-sm font-normal text-muted">
+              {pausedSession.title} · întrebarea{" "}
+              {Math.min(
+                pausedSession.index + 1,
+                pausedSession.questionNums.length
+              )}{" "}
+              / {pausedSession.questionNums.length}
+            </span>
+          </button>
+        )}
         <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap">
           <button
             type="button"
@@ -123,6 +148,8 @@ export function HomeMenu({
           About
         </Link>
       </div>
+
+      <HomeProgressSummary statsVersion={statsVersion} />
     </div>
   );
 }

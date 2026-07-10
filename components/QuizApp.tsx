@@ -3,7 +3,14 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { getAllEnriched, getCapitole } from "@/lib/data";
 import { sampleWithoutReplacement, shuffle } from "@/lib/quizEngine";
-import { loadState, recordTest50Session } from "@/lib/storage";
+import {
+  clearPausedSession,
+  loadPausedSession,
+  loadState,
+  recordTest50Session,
+  savePausedSession,
+  type SessionProgress,
+} from "@/lib/storage";
 import type { Capitol, EnrichedQuestion, QuizMode, SessionResult } from "@/lib/types";
 import { GlobalStatsReport } from "@/components/GlobalStatsReport";
 import { HomeMenu } from "@/components/HomeMenu";
@@ -26,11 +33,19 @@ export function QuizApp() {
   );
   const [sessionMode, setSessionMode] = useState<QuizMode>("chapter");
   const [sessionResults, setSessionResults] = useState<SessionResult[]>([]);
+  const [sessionProgress, setSessionProgress] = useState<
+    SessionProgress | undefined
+  >();
 
   const capitole = useMemo(() => getCapitole(), []);
 
+  const [pausedSession, setPausedSession] = useState<ReturnType<
+    typeof loadPausedSession
+  >>(null);
   const [wrongCount, setWrongCount] = useState(0);
+
   useEffect(() => {
+    setPausedSession(loadPausedSession());
     setWrongCount(loadState().wrongIds.length);
   }, [statsTick]);
 
@@ -39,14 +54,33 @@ export function QuizApp() {
   function startSession(
     title: string,
     questions: EnrichedQuestion[],
-    mode: QuizMode
+    mode: QuizMode,
+    progress?: SessionProgress
   ) {
+    if (!progress) {
+      clearPausedSession();
+    }
     setSessionKey((k) => k + 1);
     setSessionTitle(title);
     setSessionQuestions(questions);
     setSessionMode(mode);
+    setSessionProgress(progress);
     setView("quiz");
   }
+
+  const handleSaveProgress = useCallback(
+    (progress: SessionProgress) => {
+      if (sessionQuestions.length === 0) return;
+      savePausedSession({
+        title: sessionTitle,
+        mode: sessionMode,
+        questionNums: sessionQuestions.map((q) => q.numar),
+        savedAt: new Date().toISOString(),
+        ...progress,
+      });
+    },
+    [sessionTitle, sessionMode, sessionQuestions]
+  );
 
   function handleChapter(c: Capitol) {
     const enriched: EnrichedQuestion[] = c.intrebari.map((q) => ({
@@ -73,12 +107,53 @@ export function QuizApp() {
     startSession("Doar greșite", shuffle(pool), "wrong-only");
   }
 
+  function handleResumeSession() {
+    const paused = loadPausedSession();
+    if (!paused) return;
+
+    const byNum = new Map(getAllEnriched().map((q) => [q.numar, q]));
+    const questions = paused.questionNums
+      .map((n) => byNum.get(n))
+      .filter((q): q is EnrichedQuestion => q !== undefined);
+
+    if (questions.length === 0) {
+      clearPausedSession();
+      bumpStats();
+      return;
+    }
+
+    const index = Math.min(paused.index, questions.length - 1);
+    startSession(paused.title, questions, paused.mode, {
+      index,
+      results: paused.results,
+      selected: paused.selected,
+      verified: paused.verified,
+    });
+  }
+
   function handleQuizExit() {
     setView("home");
     bumpStats();
   }
 
+  function handleRetrySessionWrong(results: SessionResult[]) {
+    const wrongNums = new Set(
+      results.filter((r) => !r.isCorrect).map((r) => r.numar)
+    );
+    if (wrongNums.size === 0) return;
+
+    const byNum = new Map(getAllEnriched().map((q) => [q.numar, q]));
+    const pool = [...wrongNums]
+      .map((n) => byNum.get(n))
+      .filter((q): q is EnrichedQuestion => q !== undefined);
+
+    if (pool.length === 0) return;
+    startSession(`Reia greșite — ${sessionTitle}`, shuffle(pool), "random");
+  }
+
   function handleQuizComplete(results: SessionResult[]) {
+    clearPausedSession();
+    setSessionProgress(undefined);
     if (sessionMode === "test50") {
       recordTest50Session(results);
     }
@@ -93,10 +168,13 @@ export function QuizApp() {
         <HomeMenu
           capitole={capitole}
           wrongCount={wrongCount}
+          statsVersion={statsTick}
+          pausedSession={pausedSession}
           onChapter={handleChapter}
           onRandom={handleRandom}
           onTest50={handleTest50}
           onWrongOnly={handleWrongOnly}
+          onResumeSession={handleResumeSession}
           onGlobalStats={() => setView("globalStats")}
         />
       )}
@@ -106,6 +184,8 @@ export function QuizApp() {
           title={sessionTitle}
           questions={sessionQuestions}
           quizMode={sessionMode}
+          initialProgress={sessionProgress}
+          onSaveProgress={handleSaveProgress}
           onExit={handleQuizExit}
           onComplete={handleQuizComplete}
           onStatsUpdate={bumpStats}
@@ -119,6 +199,7 @@ export function QuizApp() {
             setView("home");
             bumpStats();
           }}
+          onRetryWrong={() => handleRetrySessionWrong(sessionResults)}
         />
       )}
       {view === "globalStats" && (

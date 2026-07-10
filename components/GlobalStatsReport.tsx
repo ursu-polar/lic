@@ -3,12 +3,16 @@
 import { useMemo, useState } from "react";
 import { getAllEnriched, getCapitole } from "@/lib/data";
 import { loadState, type Test50Session } from "@/lib/storage";
+import type { VariantaKey } from "@/lib/types";
 
 type SortKey = "numar" | "total" | "corect" | "gresit" | "rata";
 
 type QuestionRow = {
   numar: number;
   capitol: string;
+  text: string;
+  raspuns_corect: VariantaKey;
+  raspunsText: string;
   total: number;
   corect: number;
   gresit: number;
@@ -96,6 +100,9 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
       return {
         numar: q.numar,
         capitol: q.capitol,
+        text: q.text,
+        raspuns_corect: q.raspuns_corect,
+        raspunsText: q.variante[q.raspuns_corect],
         total: s.total,
         corect: s.corect,
         gresit: s.gresit,
@@ -300,10 +307,16 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
                   </span>
                 </summary>
                 <div className="overflow-x-auto border-t border-border">
-                  <table className="w-full min-w-[560px] text-left text-sm">
+                  <table className="w-full min-w-[900px] text-left text-sm">
                     <thead>
                       <tr className="bg-elevated/60">
                         <th className="p-2.5 font-medium text-muted">Nr</th>
+                        <th className="min-w-[240px] p-2.5 font-medium text-muted">
+                          Întrebare
+                        </th>
+                        <th className="min-w-[200px] p-2.5 font-medium text-muted">
+                          Răspuns corect
+                        </th>
                         <th className="p-2.5 text-right font-medium text-muted">Răspunsuri</th>
                         <th className="p-2.5 text-right font-medium text-muted">Corect</th>
                         <th className="p-2.5 text-right font-medium text-muted">Greșit</th>
@@ -316,17 +329,29 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
                           key={r.numar}
                           className="border-t border-border/50 hover:bg-elevated/40"
                         >
-                          <td className="p-2.5 font-mono text-xs text-muted">{r.numar}</td>
-                          <td className="p-2.5 text-right tabular-nums text-white/90">
+                          <td className="p-2.5 align-top font-mono text-xs text-muted">
+                            {r.numar}
+                          </td>
+                          <td className="p-2.5 align-top text-sm leading-relaxed text-white/90">
+                            {r.text}
+                          </td>
+                          <td className="p-2.5 align-top text-sm leading-relaxed">
+                            <span className="font-semibold uppercase text-success">
+                              {r.raspuns_corect}
+                            </span>
+                            <span className="text-muted"> — </span>
+                            <span className="text-white/80">{r.raspunsText}</span>
+                          </td>
+                          <td className="p-2.5 align-top text-right tabular-nums text-white/90">
                             {r.total}
                           </td>
-                          <td className="p-2.5 text-right tabular-nums text-success">
+                          <td className="p-2.5 align-top text-right tabular-nums text-success">
                             {r.corect}
                           </td>
-                          <td className="p-2.5 text-right tabular-nums text-danger">
+                          <td className="p-2.5 align-top text-right tabular-nums text-danger">
                             {r.gresit}
                           </td>
-                          <td className="p-2.5 text-right tabular-nums text-muted">
+                          <td className="p-2.5 align-top text-right tabular-nums text-muted">
                             {r.rata === null ? "—" : `${r.rata}%`}
                           </td>
                         </tr>

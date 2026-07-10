@@ -1,4 +1,4 @@
-import type { SessionResult } from "@/lib/types";
+import type { QuizMode, SessionResult, VariantaKey } from "@/lib/types";
 
 const STORAGE_KEY = "quiz-licenta-v1";
 
@@ -6,6 +6,20 @@ export type PerQuestionStats = {
   total: number;
   corect: number;
   gresit: number;
+};
+
+export type SessionProgress = {
+  index: number;
+  results: SessionResult[];
+  selected: VariantaKey | null;
+  verified: boolean;
+};
+
+export type PausedSession = SessionProgress & {
+  title: string;
+  mode: QuizMode;
+  questionNums: number[];
+  savedAt: string;
 };
 
 /** Rezultatul unui test „50 de întrebări” finalizat (pentru istoric). */
@@ -24,6 +38,7 @@ export type StoredStateV1 = {
   perQuestion: Record<string, PerQuestionStats>;
   wrongIds: number[];
   test50Sessions?: Test50Session[];
+  pausedSession?: PausedSession;
 };
 
 const MAX_TEST50_SESSIONS = 100;
@@ -54,6 +69,9 @@ export function loadState(): StoredStateV1 {
         ? parsed.wrongIds.filter((x) => typeof x === "number")
         : [],
       test50Sessions,
+      pausedSession: isValidPausedSession(parsed.pausedSession)
+        ? parsed.pausedSession
+        : undefined,
     };
   } catch {
     return defaultState();
@@ -93,6 +111,62 @@ export function recordVerifiedAnswer(
 
 export function getWrongIds(): number[] {
   return loadState().wrongIds;
+}
+
+const QUIZ_MODES: QuizMode[] = ["chapter", "random", "test50", "wrong-only"];
+const VARIANT_KEYS: VariantaKey[] = ["a", "b", "c", "d"];
+
+function isValidSessionResult(x: unknown): x is SessionResult {
+  if (!x || typeof x !== "object") return false;
+  const o = x as Record<string, unknown>;
+  return (
+    typeof o.numar === "number" &&
+    typeof o.capitol === "string" &&
+    typeof o.text === "string" &&
+    VARIANT_KEYS.includes(o.selected as VariantaKey) &&
+    VARIANT_KEYS.includes(o.raspuns_corect as VariantaKey) &&
+    typeof o.isCorrect === "boolean"
+  );
+}
+
+function isValidPausedSession(x: unknown): x is PausedSession {
+  if (!x || typeof x !== "object") return false;
+  const o = x as Record<string, unknown>;
+  if (
+    typeof o.title !== "string" ||
+    !QUIZ_MODES.includes(o.mode as QuizMode) ||
+    !Array.isArray(o.questionNums) ||
+    o.questionNums.length === 0 ||
+    !o.questionNums.every((n) => typeof n === "number") ||
+    typeof o.index !== "number" ||
+    o.index < 0 ||
+    o.index >= o.questionNums.length ||
+    !Array.isArray(o.results) ||
+    !o.results.every(isValidSessionResult) ||
+    (o.selected !== null && !VARIANT_KEYS.includes(o.selected as VariantaKey)) ||
+    typeof o.verified !== "boolean" ||
+    typeof o.savedAt !== "string"
+  ) {
+    return false;
+  }
+  return true;
+}
+
+export function loadPausedSession(): PausedSession | null {
+  const paused = loadState().pausedSession;
+  return paused && isValidPausedSession(paused) ? paused : null;
+}
+
+export function savePausedSession(session: PausedSession): void {
+  const s = loadState();
+  s.pausedSession = session;
+  saveState(s);
+}
+
+export function clearPausedSession(): void {
+  const s = loadState();
+  delete s.pausedSession;
+  saveState(s);
 }
 
 function isValidTest50Session(x: unknown): x is Test50Session {
