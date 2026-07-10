@@ -27,7 +27,7 @@ function getIndexedQuestions(questions: EnrichedQuestion[]): IndexedQuestion[] {
 export function searchQuestions(
   query: string,
   questions: EnrichedQuestion[],
-  limit = 8
+  limit?: number
 ): EnrichedQuestion[] {
   const trimmed = query.trim();
   if (!trimmed) return [];
@@ -49,5 +49,5 @@ export function searchQuestions(
     words.every((word) => q.normalizedText.includes(word))
   );
 
-  return matches.slice(0, limit);
+  return limit !== undefined ? matches.slice(0, limit) : matches;
 }
