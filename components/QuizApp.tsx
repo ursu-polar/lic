@@ -15,15 +15,19 @@ import {
 } from "@/lib/storage";
 import type { Capitol, EnrichedQuestion, QuizMode, SessionResult } from "@/lib/types";
 import { GlobalStatsReport } from "@/components/GlobalStatsReport";
+import { QuestionPatternsReport } from "@/components/QuestionPatternsReport";
 import { HomeMenu } from "@/components/HomeMenu";
 import { QuizView } from "@/components/QuizView";
 import { SessionReport } from "@/components/SessionReport";
+import { SimulationView } from "@/components/SimulationView";
 
 type View =
   | "home"
   | "quiz"
+  | "simulation"
   | "sessionReport"
-  | "globalStats";
+  | "globalStats"
+  | "questionPatterns";
 
 export function QuizApp() {
   const [view, setView] = useState<View>("home");
@@ -113,6 +117,50 @@ export function QuizApp() {
     );
   }
 
+  function startSimulation(
+    title: string,
+    questions: EnrichedQuestion[]
+  ) {
+    clearPausedSession();
+    setSessionKey((k) => k + 1);
+    setSessionTitle(title);
+    setSessionQuestions(questions);
+    setSessionMode("simulation45");
+    setSessionProgress(undefined);
+    setSessionResults([]);
+    setView("simulation");
+  }
+
+  function handleSimulation45() {
+    const seen = getSeenQuestionNums();
+    const sample = buildTest45Proportional(capitole, seen);
+    startSimulation("Simulare 45 — proporțional pe capitole", sample);
+  }
+
+  function handleSimulationRetryWrong(results: SessionResult[]) {
+    const wrongNums = new Set(
+      results.filter((r) => !r.isCorrect).map((r) => r.numar)
+    );
+    if (wrongNums.size === 0) return;
+
+    const byNum = new Map(getAllEnriched().map((q) => [q.numar, q]));
+    const pool = [...wrongNums]
+      .map((n) => byNum.get(n))
+      .filter((q): q is EnrichedQuestion => q !== undefined);
+
+    if (pool.length === 0) return;
+    startSimulation(
+      `Simulare — reia greșite (${pool.length})`,
+      shuffle(pool)
+    );
+  }
+
+  function handleSimulationComplete(results: SessionResult[]) {
+    setSessionResults(results);
+    recordTest50Session(results);
+    bumpStats();
+  }
+
   function handleWrongOnly() {
     const wrongIds = new Set(loadState().wrongIds);
     const pool = getAllEnriched().filter((q) => wrongIds.has(q.numar));
@@ -187,9 +235,22 @@ export function QuizApp() {
           onRandom={handleRandom}
           onTest50={handleTest50}
           onTest45Uniq={handleTest45Uniq}
+          onSimulation45={handleSimulation45}
           onWrongOnly={handleWrongOnly}
           onResumeSession={handleResumeSession}
           onGlobalStats={() => setView("globalStats")}
+          onQuestionPatterns={() => setView("questionPatterns")}
+        />
+      )}
+      {view === "simulation" && (
+        <SimulationView
+          key={sessionKey}
+          title={sessionTitle}
+          questions={sessionQuestions}
+          onExit={handleQuizExit}
+          onComplete={handleSimulationComplete}
+          onRetryWrong={handleSimulationRetryWrong}
+          onStatsUpdate={bumpStats}
         />
       )}
       {view === "quiz" && (
@@ -222,6 +283,13 @@ export function QuizApp() {
           onBack={() => {
             setView("home");
             bumpStats();
+          }}
+        />
+      )}
+      {view === "questionPatterns" && (
+        <QuestionPatternsReport
+          onBack={() => {
+            setView("home");
           }}
         />
       )}

@@ -134,6 +134,7 @@ const QUIZ_MODES: QuizMode[] = [
   "random",
   "test50",
   "test45-uniq",
+  "simulation45",
   "wrong-only",
 ];
 const VARIANT_KEYS: VariantaKey[] = ["a", "b", "c", "d"];

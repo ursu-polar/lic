@@ -15,9 +15,11 @@ type Props = {
   onRandom: () => void;
   onTest50: () => void;
   onTest45Uniq: () => void;
+  onSimulation45: () => void;
   onWrongOnly: () => void;
   onResumeSession: () => void;
   onGlobalStats: () => void;
+  onQuestionPatterns: () => void;
 };
 
 export function HomeMenu({
@@ -29,9 +31,11 @@ export function HomeMenu({
   onRandom,
   onTest50,
   onTest45Uniq,
+  onSimulation45,
   onWrongOnly,
   onResumeSession,
   onGlobalStats,
+  onQuestionPatterns,
 }: Props) {
   return (
     <div className="mx-auto flex max-w-3xl flex-col gap-10 px-4 py-12">
@@ -101,6 +105,16 @@ export function HomeMenu({
           </button>
           <button
             type="button"
+            onClick={onSimulation45}
+            className="rounded-xl border border-accent/50 bg-accent/10 px-5 py-3.5 text-left font-medium text-white transition hover:border-accent hover:bg-accent/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+          >
+            Generează simulare 45
+            <span className="mt-1 block text-sm font-normal text-muted">
+              45 întrebări pe o pagină, verificare la final
+            </span>
+          </button>
+          <button
+            type="button"
             onClick={onWrongOnly}
             disabled={wrongCount === 0}
             title={
@@ -142,7 +156,14 @@ export function HomeMenu({
         </div>
       </section>
 
-      <div className="flex justify-center">
+      <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+        <button
+          type="button"
+          onClick={onQuestionPatterns}
+          className="rounded-full border border-amber-500/40 bg-amber-500/10 px-6 py-2.5 text-sm font-medium text-amber-300 transition hover:border-amber-500/60 hover:text-amber-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+        >
+          Capcane &amp; pattern-uri similare
+        </button>
         <button
           type="button"
           onClick={onGlobalStats}
