@@ -14,6 +14,7 @@ type Props = {
   onChapter: (capitol: Capitol) => void;
   onRandom: () => void;
   onTest50: () => void;
+  onTest45Uniq: () => void;
   onWrongOnly: () => void;
   onResumeSession: () => void;
   onGlobalStats: () => void;
@@ -27,6 +28,7 @@ export function HomeMenu({
   onChapter,
   onRandom,
   onTest50,
+  onTest45Uniq,
   onWrongOnly,
   onResumeSession,
   onGlobalStats,
@@ -85,6 +87,16 @@ export function HomeMenu({
             Generează test 45
             <span className="mt-1 block text-sm font-normal text-muted">
               45 întrebări aleatoare
+            </span>
+          </button>
+          <button
+            type="button"
+            onClick={onTest45Uniq}
+            className="rounded-xl border border-border bg-elevated px-5 py-3.5 text-left font-medium text-white transition hover:border-accent hover:bg-surface focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+          >
+            Generează test 45 Uniq
+            <span className="mt-1 block text-sm font-normal text-muted">
+              45 întrebări, proporțional pe capitole
             </span>
           </button>
           <button

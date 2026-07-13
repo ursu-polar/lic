@@ -2,9 +2,11 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { getAllEnriched, getCapitole } from "@/lib/data";
-import { sampleWithoutReplacement, shuffle } from "@/lib/quizEngine";
+import { shuffle } from "@/lib/quizEngine";
+import { buildTest45, buildTest45Proportional } from "@/lib/testGenerator";
 import {
   clearPausedSession,
+  getSeenQuestionNums,
   loadPausedSession,
   loadState,
   recordTest50Session,
@@ -96,8 +98,19 @@ export function QuizApp() {
   }
 
   function handleTest50() {
-    const sample = sampleWithoutReplacement(getAllEnriched(), 45);
+    const seen = getSeenQuestionNums();
+    const sample = buildTest45(seen);
     startSession("Test 45 — întrebări aleatoare", sample, "test50");
+  }
+
+  function handleTest45Uniq() {
+    const seen = getSeenQuestionNums();
+    const sample = buildTest45Proportional(capitole, seen);
+    startSession(
+      "Test 45 Uniq — proporțional pe capitole",
+      sample,
+      "test45-uniq"
+    );
   }
 
   function handleWrongOnly() {
@@ -154,7 +167,7 @@ export function QuizApp() {
   function handleQuizComplete(results: SessionResult[]) {
     clearPausedSession();
     setSessionProgress(undefined);
-    if (sessionMode === "test50") {
+    if (sessionMode === "test50" || sessionMode === "test45-uniq") {
       recordTest50Session(results);
     }
     setSessionResults(results);
@@ -173,6 +186,7 @@ export function QuizApp() {
           onChapter={handleChapter}
           onRandom={handleRandom}
           onTest50={handleTest50}
+          onTest45Uniq={handleTest45Uniq}
           onWrongOnly={handleWrongOnly}
           onResumeSession={handleResumeSession}
           onGlobalStats={() => setView("globalStats")}

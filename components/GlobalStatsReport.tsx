@@ -85,7 +85,8 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("numar");
   const [sortAsc, setSortAsc] = useState(true);
 
-  const { allRows, capitole, test50Sessions, test50Summary } = useMemo(() => {
+  const { allRows, capitole, test50Sessions, test50Summary, uniqueAnswered, totalQuestions } =
+    useMemo(() => {
     void statsVersion;
     const all = getAllEnriched();
     const caps = getCapitole();
@@ -123,6 +124,8 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
       capitole: caps,
       test50Sessions: sessions,
       test50Summary,
+      uniqueAnswered: rows.filter((r) => r.total > 0).length,
+      totalQuestions: all.length,
     };
   }, [statsVersion]);
 
@@ -177,6 +180,20 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
         >
           Înapoi
         </button>
+      </div>
+
+      <div className="mt-6 flex flex-wrap gap-4 rounded-xl border border-border bg-elevated/50 px-4 py-3 text-sm">
+        <span className="text-white/90">
+          Întrebări unice răspunse:{" "}
+          <strong className="text-accent">{uniqueAnswered}</strong>
+          <span className="text-muted"> / {totalQuestions}</span>
+        </span>
+        <span className="text-muted">
+          ({totalQuestions === 0
+            ? 0
+            : Math.round((uniqueAnswered / totalQuestions) * 100)}
+          % din banca de întrebări)
+        </span>
       </div>
 
       {/* Teste 45 */}

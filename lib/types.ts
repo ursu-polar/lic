@@ -20,7 +20,7 @@ export type IntrebariRoot = {
 
 export type EnrichedQuestion = Intrebare & { capitol: string };
 
-export type QuizMode = "chapter" | "random" | "test50" | "wrong-only";
+export type QuizMode = "chapter" | "random" | "test50" | "test45-uniq" | "wrong-only";
 
 export type SessionResult = {
   numar: number;

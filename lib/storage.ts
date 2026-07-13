@@ -113,7 +113,29 @@ export function getWrongIds(): number[] {
   return loadState().wrongIds;
 }
 
-const QUIZ_MODES: QuizMode[] = ["chapter", "random", "test50", "wrong-only"];
+/** Question numbers answered at least once (Verifică). */
+export function getSeenQuestionNums(): Set<number> {
+  const st = loadState();
+  const seen = new Set<number>();
+  for (const [key, stats] of Object.entries(st.perQuestion)) {
+    if (stats.total > 0) {
+      seen.add(Number(key));
+    }
+  }
+  return seen;
+}
+
+export function getUniqueAnsweredCount(): number {
+  return getSeenQuestionNums().size;
+}
+
+const QUIZ_MODES: QuizMode[] = [
+  "chapter",
+  "random",
+  "test50",
+  "test45-uniq",
+  "wrong-only",
+];
 const VARIANT_KEYS: VariantaKey[] = ["a", "b", "c", "d"];
 
 function isValidSessionResult(x: unknown): x is SessionResult {
