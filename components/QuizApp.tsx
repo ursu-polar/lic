@@ -280,6 +280,7 @@ export function QuizApp() {
       {view === "globalStats" && (
         <GlobalStatsReport
           statsVersion={statsTick}
+          onStatsUpdate={bumpStats}
           onBack={() => {
             setView("home");
             bumpStats();

@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { getAllEnriched, getCapitole } from "@/lib/data";
-import { loadState, type Test50Session } from "@/lib/storage";
+import { deleteTest50Session, loadState, type Test50Session } from "@/lib/storage";
 import type { VariantaKey } from "@/lib/types";
 
 type SortKey = "numar" | "total" | "corect" | "gresit" | "rata";
@@ -22,7 +22,22 @@ type QuestionRow = {
 type Props = {
   statsVersion: number;
   onBack: () => void;
+  onStatsUpdate?: () => void;
 };
+
+function sessionPct(sess: Test50Session): number {
+  return Math.round((sess.corect / Math.max(sess.total, 1)) * 100);
+}
+
+function medianSessionPct(sessions: Test50Session[]): number {
+  const pcts = sessions.map(sessionPct).sort((a, b) => a - b);
+  if (pcts.length === 0) return 0;
+  const mid = Math.floor(pcts.length / 2);
+  if (pcts.length % 2 === 0) {
+    return Math.round((pcts[mid - 1] + pcts[mid]) / 2);
+  }
+  return pcts[mid];
+}
 
 function formatRoDateTime(iso: string): string {
   try {
@@ -81,9 +96,10 @@ const detailsClass =
 const summaryClass =
   "flex cursor-pointer list-none items-center justify-between gap-3 p-4 [&::-webkit-details-marker]:hidden";
 
-export function GlobalStatsReport({ statsVersion, onBack }: Props) {
+export function GlobalStatsReport({ statsVersion, onBack, onStatsUpdate }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("numar");
   const [sortAsc, setSortAsc] = useState(true);
+  const [confirmDeleteId, setConfirmDeleteId] = useState<string | null>(null);
 
   const { allRows, capitole, test50Sessions, test50Summary, uniqueAnswered, totalQuestions } =
     useMemo(() => {
@@ -111,13 +127,9 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
       };
     });
     const sessions = st.test50Sessions ?? [];
-    let test50Summary: { count: number; avgPct: number } | null = null;
+    let test50Summary: { count: number; medianPct: number } | null = null;
     if (sessions.length > 0) {
-      const avgPct = Math.round(
-        sessions.reduce((acc, s) => acc + (s.corect / Math.max(s.total, 1)) * 100, 0) /
-          sessions.length
-      );
-      test50Summary = { count: sessions.length, avgPct };
+      test50Summary = { count: sessions.length, medianPct: medianSessionPct(sessions) };
     }
     return {
       allRows: rows,
@@ -161,6 +173,12 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
     return Object.entries(sess.countByChapter)
       .map(([name, count]) => ({ name, count }))
       .sort((a, b) => b.count - a.count);
+  }
+
+  function handleDeleteSession(id: string) {
+    deleteTest50Session(id);
+    setConfirmDeleteId(null);
+    onStatsUpdate?.();
   }
 
   return (
@@ -216,14 +234,14 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
                   <strong className="text-accent">{test50Summary.count}</strong> teste finalizate
                 </span>
                 <span className="text-muted">
-                  Medie scor per test:{" "}
-                  <strong className="text-success">{test50Summary.avgPct}%</strong> corecte
+                  Mediană scor per test:{" "}
+                  <strong className="text-success">{test50Summary.medianPct}%</strong> corecte
                 </span>
               </div>
             )}
             <div className="mt-4 flex flex-col gap-2">
               {test50Sessions.map((sess) => {
-                const pct = Math.round((sess.corect / Math.max(sess.total, 1)) * 100);
+                const pct = sessionPct(sess);
                 const lines = chapterBreakdownLines(sess);
                 return (
                   <details key={sess.id} className={detailsClass}>
@@ -239,12 +257,48 @@ export function GlobalStatsReport({ statsVersion, onBack }: Props) {
                           <span className="text-muted"> · {lines.length} capitole reprezentate</span>
                         </p>
                       </div>
-                      <span
-                        className="shrink-0 text-muted transition-transform duration-200 group-open:rotate-180"
-                        aria-hidden
-                      >
-                        ▼
-                      </span>
+                      <div className="flex shrink-0 items-center gap-2">
+                        {confirmDeleteId === sess.id ? (
+                          <div
+                            className="flex items-center gap-1.5"
+                            onClick={(e) => e.preventDefault()}
+                            onKeyDown={(e) => e.stopPropagation()}
+                          >
+                            <span className="text-xs text-muted">Ștergi?</span>
+                            <button
+                              type="button"
+                              onClick={() => handleDeleteSession(sess.id)}
+                              className="rounded-full border border-danger/50 px-2.5 py-1 text-xs font-medium text-danger transition hover:bg-danger/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-danger"
+                            >
+                              Da
+                            </button>
+                            <button
+                              type="button"
+                              onClick={() => setConfirmDeleteId(null)}
+                              className="rounded-full border border-border px-2.5 py-1 text-xs font-medium text-muted transition hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+                            >
+                              Nu
+                            </button>
+                          </div>
+                        ) : (
+                          <button
+                            type="button"
+                            onClick={(e) => {
+                              e.preventDefault();
+                              setConfirmDeleteId(sess.id);
+                            }}
+                            className="rounded-full border border-border px-2.5 py-1 text-xs font-medium text-muted transition hover:border-danger/50 hover:text-danger focus:outline-none focus-visible:ring-2 focus-visible:ring-danger"
+                          >
+                            Șterge
+                          </button>
+                        )}
+                        <span
+                          className="text-muted transition-transform duration-200 group-open:rotate-180"
+                          aria-hidden
+                        >
+                          ▼
+                        </span>
+                      </div>
                     </summary>
                     <div className="border-t border-border px-4 pb-4 pt-2">
                       <p className="text-xs font-medium uppercase tracking-wide text-muted">

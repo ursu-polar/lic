@@ -227,3 +227,12 @@ export function recordTest50Session(results: SessionResult[]): void {
   s.test50Sessions = [session, ...prev].slice(0, MAX_TEST50_SESSIONS);
   saveState(s);
 }
+
+export function deleteTest50Session(id: string): void {
+  const s = loadState();
+  const prev = s.test50Sessions ?? [];
+  const next = prev.filter((sess) => sess.id !== id);
+  if (next.length === prev.length) return;
+  s.test50Sessions = next;
+  saveState(s);
+}
